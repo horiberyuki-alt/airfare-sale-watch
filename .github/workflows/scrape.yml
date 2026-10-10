@@ -1,0 +1,36 @@
+name: scrape
+
+on:
+  schedule:
+    # UTC。日本時間で 1:00 から 2 時間おき（JST 9:00・11:00・13:00 … を含む）
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: collect sales
+        run: node scripts/scrape.js
+      - name: commit if changed
+        run: |
+          git config user.name "sale-watch-bot"
+          git config user.email "sale-watch-bot@users.noreply.github.com"
+          if git diff --quiet -- docs/data/sales.json; then
+            echo "no change"
+          else
+            git add docs/data/sales.json
+            git commit -m "update sales $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
