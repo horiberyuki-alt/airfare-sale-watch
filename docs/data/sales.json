@@ -1,15 +1,95 @@
 {
- "updatedAt": "2026-10-14T09:07:45.658Z",
- "count": 16,
+ "updatedAt": "2026-10-14T14:46:57.077Z",
+ "count": 18,
  "log": [
-  "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 2 campaign links"
  ],
  "items": [
+  {
+   "id": "8ba72f004f99",
+   "source": "sky-budget",
+   "airlines": [
+    "ANA",
+    "IBEX"
+   ],
+   "category": "LCC・FSCの航空券セール情報",
+   "title": "アイベックスエアラインズ、片道6,820円からのタイムセールを10月16日から開催",
+   "link": "https://sky-budget.com/2026/10/14/ibex-airlines-sale-oct2026/",
+   "published": "2026-10-14T09:42:36.000Z",
+   "summary": "アイベックスエアラインズは、片道6,820円からのタイムセールを2026年10月16日より開催します。詳細は以下の通りです。\n【対象路線】\n《中部発着》福岡8,800円～、仙台9,020円～、大分8,030円～、松山8,690円～\n《仙台発着》新千歳6,820円～、中部9,020円～、伊丹9,350円～、広島10,120円～、福岡12,100円～\n《伊丹発着》仙台9,350円～、福島8,580円～",
+   "routes": [
+    "新潟⇄福岡",
+    "大阪⇄新潟"
+   ],
+   "cities": [
+    "タイ",
+    "名古屋",
+    "福岡",
+    "仙台",
+    "大分",
+    "松山",
+    "札幌",
+    "大阪",
+    "広島",
+    "新潟"
+   ],
+   "salePeriod": "販売期間：2026年10月16日0時から10月22日まで Photo : IBEX 予約はこちら 最安値航空券の検索・予約はこちら アイベックスエアラインズ、2026年8月の利用率は86.",
+   "boardingPeriod": "搭乗期間：2026年11月1日～2027年1月31日 販売期間：2026年10月16日0時から10月22日まで Photo : IBEX 予約はこちら 最安値航空券の検索・予約はこちら ア",
+   "prices": [
+    "片道6,820円から",
+    "8,800円～",
+    "9,020円～",
+    "8,030円～",
+    "8,690円～",
+    "6,820円～",
+    "9,350円～",
+    "10,120円～"
+   ],
+   "firstSeen": "2026-10-14T14:46:57.077Z"
+  },
+  {
+   "id": "fe56de5a8625",
+   "source": "TRAICY",
+   "airlines": [
+    "IBEX"
+   ],
+   "category": "セール・特別運賃",
+   "title": "アイベックスエアラインズ、全路線でタイムセール開催　片道7,480円から",
+   "link": "https://www.traicy.com/posts/20261014384896/",
+   "published": "2026-10-14T08:15:53.000Z",
+   "summary": "アイベックスエアラインズは、「IBEXタイムセール」を10月16日から22日まで開催する。 全路線が対象。設定路線と片道最低運賃は以下の通り。空港施設使用料は別途必要となる。 搭乗期間は11月1日から2027年1月31日 […]",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "仙台",
+    "札幌",
+    "名古屋",
+    "大阪",
+    "広島",
+    "福岡",
+    "大分",
+    "新潟",
+    "松山"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は11月1日から2027年1月31日まで",
+   "prices": [
+    "6,820円",
+    "9,020円",
+    "9,350円",
+    "10,120円",
+    "12,100円",
+    "7,480円",
+    "7,920円",
+    "8,580円"
+   ],
+   "firstSeen": "2026-10-14T14:46:57.077Z"
+  },
   {
    "id": "c3ecc00b6840",
    "source": "TRAICY",
@@ -85,23 +165,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -115,6 +178,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
