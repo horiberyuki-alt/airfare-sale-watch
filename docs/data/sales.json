@@ -1,15 +1,38 @@
 {
- "updatedAt": "2026-10-14T02:39:25.338Z",
- "count": 15,
+ "updatedAt": "2026-10-14T09:07:45.658Z",
+ "count": 16,
  "log": [
   "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 0 sale-ish",
+  "TRAICY: 30 items, 1 sale-ish",
   "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 2 campaign links"
  ],
  "items": [
+  {
+   "id": "c3ecc00b6840",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "セール",
+   "title": "ANA X、「九州ふっこう応援割」を10月14日午後2時販売開始　鹿児島県対象",
+   "link": "https://www.traicy.com/posts/20261014384859/",
+   "published": "2026-10-13T23:15:25.000Z",
+   "summary": "ANA Xは、旅行支援「九州ふっこう応援割」の鹿児島県の販売を、10月14日午後2時から開始する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみで、2泊以上の場合には同一県内に宿泊する必要がある。宿泊 […]",
+   "routes": [],
+   "cities": [
+    "鹿児島",
+    "熊本"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-14T09:07:45.658Z"
+  },
   {
    "id": "f837806c8bad",
    "source": "sky-budget",
@@ -62,6 +85,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -75,23 +115,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
