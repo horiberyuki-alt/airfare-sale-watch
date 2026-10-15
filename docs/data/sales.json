@@ -1,15 +1,57 @@
 {
- "updatedAt": "2026-10-15T02:19:11.409Z",
- "count": 19,
+ "updatedAt": "2026-10-15T08:41:02.621Z",
+ "count": 22,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 2 sale-ish",
-  "sky-budget: 10 items, 2 sale-ish",
+  "TRAICY: 30 items, 4 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
-  "スカイマーク公式: 2 campaign links"
+  "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "7a6c3c37ca31",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "長崎県×スカイマーク にゃーがの空旅キャンペーン",
+   "link": "https://www.skymark.co.jp/ja/campaign/nagasaki-soratabi/",
+   "published": "2026-10-15T08:41:02.621Z",
+   "summary": "",
+   "routes": [],
+   "cities": [
+    "長崎"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-15T08:41:02.621Z"
+  },
+  {
+   "id": "280f6db6d2f6",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ジャルパック、「九州ふっこう応援割」を10月15日午後2時販売開始　鹿児島県対象",
+   "link": "https://www.traicy.com/posts/20261015384912/",
+   "published": "2026-10-15T03:25:01.000Z",
+   "summary": "ジャルパック（JALパック）は、旅行支援「九州ふっこう応援割」の鹿児島県の販売を、10月15日午後2時から開始する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみとなる。宿泊期間は10月14日から20 […]",
+   "routes": [],
+   "cities": [
+    "鹿児島",
+    "熊本"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-15T08:41:02.621Z"
+  },
   {
    "id": "46f63869e5de",
    "source": "sky-budget",
@@ -50,6 +92,44 @@
     "62,700円～"
    ],
    "firstSeen": "2026-10-15T02:19:11.409Z"
+  },
+  {
+   "id": "2336ecefdc59",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ANA、国際線でタイムセール　上海往復4.1万円、ホノルル10.5万円など",
+   "link": "https://www.traicy.com/posts/20261015384933/",
+   "published": "2026-10-14T22:15:14.000Z",
+   "summary": "全日本空輸（ANA）は、「国際線航空券タイムセール」を10月15日から21日まで開催する。 アジアやアメリカ、ヨーロッパ、オセアニア行きなどに設定がある。搭乗期間は11月1日から2027年7月31日までで、路線により設定 […]",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "上海",
+    "ホノルル",
+    "マニラ",
+    "香港",
+    "シンガポール",
+    "バンコク",
+    "ホーチミン",
+    "ハノイ",
+    "クアラルンプール"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は11月1日から2027年7月31日までで、路線により設定期間は異なる",
+   "prices": [
+    "41,700円",
+    "107,700円",
+    "48,200円",
+    "117,200円",
+    "55,700円",
+    "122,200円",
+    "56,200円",
+    "128,700円"
+   ],
+   "firstSeen": "2026-10-15T08:41:02.621Z"
   },
   {
    "id": "8ba72f004f99",
@@ -206,23 +286,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -236,6 +299,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
