@@ -1,15 +1,56 @@
 {
- "updatedAt": "2026-10-14T22:50:02.511Z",
- "count": 18,
+ "updatedAt": "2026-10-15T02:19:11.409Z",
+ "count": 19,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 2 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 2 campaign links"
  ],
  "items": [
+  {
+   "id": "46f63869e5de",
+   "source": "sky-budget",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ANA、国際線を対象に燃油サーチャージ込で往復41,700円からのタイムセールを開催中",
+   "link": "https://sky-budget.com/2026/10/15/ana-sale-oct2026/",
+   "published": "2026-10-14T23:18:44.000Z",
+   "summary": "ANAは、往復41,700円からの国際線タイムセールを開催中です。詳細は以下の通りです。\n【対象路線一例/金額】往復金額を表記\n＜エコノミークラス＞\n◇大阪～上海41,700円～\n◇日本～上海48,200円～\n◇日本～北京48,200円～\n◇日本～大連55,700円～\n◇日本～杭州56,200円～\n◇日本～マニラ60,600円～\n◇日本～広州62,600円～\n◇日本～深圳62,700円～\n◇日本～",
+   "routes": [
+    "上海⇄大阪"
+   ],
+   "cities": [
+    "タイ",
+    "大阪",
+    "上海",
+    "マニラ",
+    "香港",
+    "シンガポール",
+    "バンコク",
+    "ホーチミン",
+    "ハノイ",
+    "クアラルンプール",
+    "ホノルル"
+   ],
+   "salePeriod": "予約期間】2026年10月15日（木）0:00～10月21日（水）23:59 予約はこちら 最安値航空券の検索・予約はこちら ANA「300万円の壁」とデルタ航空「1,000万円超の壁」 ",
+   "boardingPeriod": "搭乗期間】2026年11月1日（日）～2027年7月31日（土） *路線により搭乗期間・タイムセール運賃の適用除外期間が異なります",
+   "prices": [
+    "往復41,700円から",
+    "41,700円～",
+    "48,200円～",
+    "55,700円～",
+    "56,200円～",
+    "60,600円～",
+    "62,600円～",
+    "62,700円～"
+   ],
+   "firstSeen": "2026-10-15T02:19:11.409Z"
+  },
   {
    "id": "8ba72f004f99",
    "source": "sky-budget",
@@ -165,6 +206,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -178,23 +236,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
