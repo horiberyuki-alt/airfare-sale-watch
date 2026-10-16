@@ -1,15 +1,45 @@
 {
- "updatedAt": "2026-10-15T22:46:04.644Z",
- "count": 25,
+ "updatedAt": "2026-10-16T02:11:51.141Z",
+ "count": 26,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 5 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "696cc6a83abe",
+   "source": "sky-budget",
+   "airlines": [
+    "トキエア"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "トキエア、全路線を対象とした「100時間限定タイムセール」を本日10月16日12時より開催 片道5,555円",
+   "link": "https://sky-budget.com/2026/10/16/toki-air-sale-oct2026/",
+   "published": "2026-10-16T01:01:13.000Z",
+   "summary": "トキエアは、2026年11月1日から12月23日搭乗分を対象に、全路線の対象便が片道5,555円となる「100時間限定タイムセール」を本日10月16日12時より開催します。\n 今回のタイムセールは、「行きたい時が出発の時」をテーマに、秋から初冬にかけての旅行を後押しする目的で実施されます。運賃は平日や土日祝日を問わず一律5,555円（税込）に設定されており、週末の旅行や1泊2日の短期旅行など、旅行",
+   "routes": [
+    "新潟⇄札幌",
+    "新潟⇄神戸"
+   ],
+   "cities": [
+    "タイ",
+    "新潟",
+    "札幌",
+    "名古屋",
+    "神戸"
+   ],
+   "salePeriod": "販売期間は、10月16日12時00分から10月20日15時59分までの100時間限定となります",
+   "boardingPeriod": "",
+   "prices": [
+    "片道5,555円",
+    "5,555円"
+   ],
+   "firstSeen": "2026-10-16T02:11:51.141Z"
+  },
   {
    "id": "c7326b9a934f",
    "source": "sky-budget",
@@ -413,23 +443,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -443,6 +456,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
