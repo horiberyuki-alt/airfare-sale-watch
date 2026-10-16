@@ -1,15 +1,65 @@
 {
- "updatedAt": "2026-10-16T02:11:51.141Z",
- "count": 26,
+ "updatedAt": "2026-10-16T08:35:50.826Z",
+ "count": 28,
  "log": [
-  "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 5 sale-ish",
+  "TRAICY: 30 items, 8 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 2 sale-ish",
-  "トラベルWatch: 15 items, 0 sale-ish",
+  "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "d258e9a09b9b",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "セール",
+   "title": "ANA X、「九州ふっこう応援割」を10月16日午後2時販売開始　熊本・長崎・佐賀県対象",
+   "link": "https://www.traicy.com/posts/20261016385030/",
+   "published": "2026-10-16T05:03:15.000Z",
+   "summary": "ANA Xは、旅行支援「九州ふっこう応援割」の熊本・長崎・佐賀県の販売を、10月16日午後2時から開始する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみで、2泊以上の場合には同一県内に宿泊する必要が […]",
+   "routes": [],
+   "cities": [
+    "熊本",
+    "長崎",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-16T08:35:50.826Z"
+  },
+  {
+   "id": "49cc55d81de6",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、国内線航空券タイムセール。羽田～福岡/長崎/熊本は片道1万1000円～、12～3月搭乗分",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2148705.html",
+   "published": "2026-10-16T03:03:57.000Z",
+   "summary": "ANAは、国内航空券タイムセールを10月16日0時～22日23時59分に実施している。対象搭乗期間は12月1日～2027年3月27日。",
+   "routes": [
+    "東京⇄福岡"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "福岡",
+    "長崎",
+    "熊本"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "対象搭乗期間は12月1日～2027年3月27日",
+   "prices": [],
+   "firstSeen": "2026-10-16T08:35:50.826Z"
+  },
   {
    "id": "696cc6a83abe",
    "source": "sky-budget",
@@ -443,6 +493,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -456,23 +523,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
