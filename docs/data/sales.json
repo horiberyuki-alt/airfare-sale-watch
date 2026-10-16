@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-10-16T08:35:50.826Z",
- "count": 28,
+ "updatedAt": "2026-10-16T14:24:20.029Z",
+ "count": 30,
  "log": [
-  "TRAICY: 30 items, 8 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
@@ -10,6 +10,81 @@
   "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "d2c425425273",
+   "source": "sky-budget",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "Peach、国内線を対象に片道4,000円からのセールを開催中",
+   "link": "https://sky-budget.com/2026/10/16/peach-sale-oct2026/",
+   "published": "2026-10-16T12:37:00.000Z",
+   "summary": "Peachは、国内線を対象とした片道4,000円からのセールを本日2026年10月16日から開催しています。\n 今回のセールでは、国内線が対象となります。詳細は以下の通りです。\n【成田発着】新千歳4,000円～、福岡5,000円～、奄美・那覇6,000円～、石垣7,000円～\n【関西発着】鹿児島・奄美・福岡・長崎・宮崎・仙台4,000円～、那覇・新千歳5,000円～、石垣7,000円～\n【中部発着",
+   "routes": [],
+   "cities": [
+    "東京",
+    "札幌",
+    "福岡",
+    "奄美",
+    "沖縄",
+    "石垣",
+    "大阪",
+    "鹿児島",
+    "長崎",
+    "宮崎",
+    "仙台",
+    "名古屋"
+   ],
+   "salePeriod": "販売期間】2026年10月16日 12:00～10月19日 23:59 【搭乗期間】2026年11月02日～2027年03月18日 *搭乗期間は路線によって異なります",
+   "boardingPeriod": "搭乗期間】2026年11月02日～2027年03月18日 *搭乗期間は路線によって異なります",
+   "prices": [
+    "片道4,000円から",
+    "4,000円～",
+    "5,000円～",
+    "6,000円～",
+    "7,000円～"
+   ],
+   "firstSeen": "2026-10-16T14:24:20.029Z"
+  },
+  {
+   "id": "c532c1399cad",
+   "source": "TRAICY",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ピーチ、国内線でセール開催　片道4,000円から",
+   "link": "https://www.traicy.com/posts/20261016385060/",
+   "published": "2026-10-16T08:45:33.000Z",
+   "summary": "ピーチ・アビエーションは、国内線を対象としたセールを10月16日正午から19日まで開催する。 設定路線と「ミニマムプロモ」の片道最低運賃は以下の通り。燃油サーチャージなし、発券手数料や空港使用料等は別途必要となる。 搭乗 […]",
+   "routes": [
+    "仙台⇄札幌"
+   ],
+   "cities": [
+    "大阪",
+    "仙台",
+    "福岡",
+    "長崎",
+    "宮崎",
+    "鹿児島",
+    "奄美",
+    "札幌",
+    "沖縄",
+    "石垣",
+    "東京",
+    "名古屋"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は11月2日から2027年3月18日まで",
+   "prices": [
+    "4,000円",
+    "5,000円",
+    "7,000円",
+    "6,000円"
+   ],
+   "firstSeen": "2026-10-16T14:24:20.029Z"
+  },
   {
    "id": "d258e9a09b9b",
    "source": "TRAICY",
@@ -493,23 +568,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -523,6 +581,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
