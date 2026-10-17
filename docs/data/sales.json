@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-17T21:51:59.944Z",
- "count": 32,
+ "updatedAt": "2026-10-17T23:37:32.909Z",
+ "count": 33,
  "log": [
-  "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
+  "TRAICY: 30 items, 10 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
@@ -616,6 +616,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -629,23 +646,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
@@ -879,6 +879,40 @@
     "12,210円"
    ],
    "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f17de728d4e9",
+   "source": "TRAICY",
+   "airlines": [
+    "ZIPAIR"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ZIPAIR Tokyo、搭乗者数500万人達成記念で9路線セール開催　片道15,160円から",
+   "link": "https://www.traicy.com/posts/20261001383668/",
+   "published": "2026-10-01T14:32:57.000Z",
+   "summary": "ZIPAIR Tokyoは、搭乗者数500万人達成を記念した「THANKS SALE」を9月29日から10月5日まで開催している。 対象路線と片道最低運賃は以下の通り。いずれも燃油サーチャージなし、諸税別。 搭乗期間は2 […]",
+   "routes": [],
+   "cities": [
+    "東京",
+    "ソウル",
+    "シンガポール",
+    "クアラルンプール",
+    "バンコク",
+    "ホノルル"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は2027年2月28日まで",
+   "prices": [
+    "片道15,160円から",
+    "15,160円",
+    "17,660円",
+    "26,560円",
+    "26,562円",
+    "35,690円",
+    "35,110円",
+    "41,740円"
+   ],
+   "firstSeen": "2026-10-17T23:37:32.909Z"
   },
   {
    "id": "c13a41ecc14a",
