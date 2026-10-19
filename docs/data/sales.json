@@ -1,15 +1,47 @@
 {
- "updatedAt": "2026-10-19T02:21:08.141Z",
- "count": 33,
+ "updatedAt": "2026-10-19T09:25:20.799Z",
+ "count": 34,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
-  "トラベルWatch: 15 items, 2 sale-ish",
+  "TRAICY: 30 items, 0 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "0018b6830e27",
+   "source": "sky-budget",
+   "airlines": [
+    "Peach",
+    "ZIPAIR"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "エアアジアグループ、日本発着路線を対象に20％OFFのセールを開催中",
+   "link": "https://sky-budget.com/2026/10/19/airasia-sale-0ct2026/",
+   "published": "2026-10-19T03:09:52.000Z",
+   "summary": "エアアジアグループは、日本発着路線を対象に20％OFFのセールを開催中です。詳細は以下の通りです。\n 対象路線は、羽田・成田・中部・新千歳・福岡・那覇を発着する路線となり、クアラルンプール・バンコク・台北・高雄行きの全便全席が割引対象となります。\n なお受諾手荷物20kg、機内食、旅行補償、座席指定、免税クーポンがセットになったバリューパックは最大30％となるキャンペーンも同時開催しています。\n《",
+   "routes": [
+    "台北⇄大阪"
+   ],
+   "cities": [
+    "東京",
+    "名古屋",
+    "札幌",
+    "福岡",
+    "沖縄",
+    "クアラルンプール",
+    "バンコク",
+    "台北",
+    "高雄",
+    "大阪"
+   ],
+   "salePeriod": "予約期間》2026年10月19日～10月25日 《搭乗期間》2026年11月2日～2027年9月30日 予約はこちら 最安値航空券の検索・予約はこちら Photo : Airasia エア",
+   "boardingPeriod": "搭乗期間》2026年11月2日～2027年9月30日 予約はこちら 最安値航空券の検索・予約はこちら Photo : Airasia エアアジアグループ、大阪/関西～台北/桃園経由～クアラ",
+   "prices": [],
+   "firstSeen": "2026-10-19T09:25:20.799Z"
+  },
   {
    "id": "593abf0a8e0b",
    "source": "トラベルWatch",
@@ -616,6 +648,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -629,23 +678,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
