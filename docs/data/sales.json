@@ -1,15 +1,37 @@
 {
- "updatedAt": "2026-10-20T06:50:53.406Z",
- "count": 34,
+ "updatedAt": "2026-10-20T13:08:26.692Z",
+ "count": 35,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 0 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "TRAICY: 30 items, 1 sale-ish",
+  "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "b6f2bc238582",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JALパック、「JAL海外ダイナミックパッケージ期間限定タイムセール」を実施中　最大30,000円割引",
+   "link": "https://www.traicy.com/posts/20261020385132/",
+   "published": "2026-10-20T03:05:43.000Z",
+   "summary": "ジャルパックは、「JAL海外ダイナミックパッケージ期間限定タイムセール」を10月13日午前10時から29日まで実施している。 1人あたり最大30,000円割引のクーポンを配布している。出発期間は10月20日から2027年 […]",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "30,000円"
+   ],
+   "firstSeen": "2026-10-20T13:08:26.692Z"
+  },
   {
    "id": "0018b6830e27",
    "source": "sky-budget",
@@ -648,23 +670,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -678,6 +683,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
