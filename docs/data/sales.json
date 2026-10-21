@@ -1,15 +1,90 @@
 {
- "updatedAt": "2026-10-20T22:48:45.079Z",
- "count": 35,
+ "updatedAt": "2026-10-21T02:28:44.827Z",
+ "count": 37,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: 3 campaign links"
  ],
  "items": [
+  {
+   "id": "57f9ffec1099",
+   "source": "sky-budget",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ANA、今週のトクたびマイル路線を発表 3,500マイルから発券可【10月28日～11月3日搭乗分】",
+   "link": "https://sky-budget.com/2026/10/21/ana-tokutabi-mile-oct2026-2nd/",
+   "published": "2026-10-21T00:46:45.000Z",
+   "summary": "ANAは、対象期間中、対象路線の中から通常のマイル数より少ないマイルでANA国内線特典航空券が発券できる今週のトクたびマイル路線を発表しました。\n 対象路線は以下の通りとなり、3,500マイルから発券が可能となっています。「東京」は羽田空港・成田空港、「大阪」は伊丹空港・関西空港・神戸空港を指します。\n【3,500マイル対象路線】\n東京～富山・能登・大阪\n大阪～宮崎・熊本・松山\n新千歳～稚内・釧路",
+   "routes": [
+    "大阪⇄宮崎",
+    "沖縄⇄石垣",
+    "東京⇄福岡",
+    "大阪⇄長崎",
+    "小松⇄福岡",
+    "沖縄⇄熊本",
+    "名古屋⇄札幌",
+    "名古屋⇄沖縄"
+   ],
+   "cities": [
+    "東京",
+    "大阪",
+    "神戸",
+    "宮崎",
+    "熊本",
+    "松山",
+    "札幌",
+    "釧路",
+    "沖縄",
+    "石垣",
+    "福岡",
+    "大分",
+    "長崎",
+    "鹿児島",
+    "岡山",
+    "広島",
+    "高松",
+    "函館",
+    "小松",
+    "名古屋",
+    "仙台",
+    "ホノルル"
+   ],
+   "salePeriod": "10月28日（水）から11月3日（火）搭乗分 予約はこちら ANA、特別デザイン機「ちいかわジェット」をお披露",
+   "boardingPeriod": "対象期間中、対象路線の中から通常のマイル数より少ないマイルでANA国内線特典航空券が発券できる今週のトクたびマイル路線を発表しました",
+   "prices": [],
+   "firstSeen": "2026-10-21T02:28:44.827Z"
+  },
+  {
+   "id": "6ac18eea4281",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ジャルパック、「九州ふっこう応援割」の販売再開　福岡・長崎県対象、10月21日午前10時から",
+   "link": "https://www.traicy.com/posts/20261021385415/",
+   "published": "2026-10-20T22:15:53.000Z",
+   "summary": "ジャルパック（JALパック）は、旅行支援「九州ふっこう応援割」の福岡県・長崎県の販売を10月21日午前10時から再開する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみとなる。 九州ふっこう応援割は、 […]",
+   "routes": [],
+   "cities": [
+    "福岡",
+    "長崎",
+    "熊本",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-21T02:28:44.827Z"
+  },
   {
    "id": "b6f2bc238582",
    "source": "TRAICY",
@@ -670,6 +745,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -683,23 +775,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
