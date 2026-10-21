@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-10-21T14:45:26.152Z",
- "count": 38,
+ "updatedAt": "2026-10-21T19:46:22.865Z",
+ "count": 39,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: ERROR HTTP 502 https://www.traicy.com/feed",
-  "sky-budget: 10 items, 1 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
+  "sky-budget: ERROR HTTP 502 https://sky-budget.com/feed",
   "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 0 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
@@ -31,6 +31,29 @@
     "5000円"
    ],
    "firstSeen": "2026-10-21T14:45:26.152Z"
+  },
+  {
+   "id": "e3b4c0d67903",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ジャルパック、「九州ふっこう応援割」の販売再開　熊本県対象、10月21日午後2時から",
+   "link": "https://www.traicy.com/posts/20261021385388/",
+   "published": "2026-10-21T03:25:49.000Z",
+   "summary": "ジャルパック（JALパック）は、旅行支援「九州ふっこう応援割」の熊本県の販売を、10月21日午後2時から再開する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみとなる。 九州ふっこう応援割は、九州地方 […]",
+   "routes": [],
+   "cities": [
+    "熊本",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-21T19:46:22.865Z"
   },
   {
    "id": "57f9ffec1099",
@@ -767,23 +790,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -797,6 +803,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
