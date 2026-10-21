@@ -1,15 +1,37 @@
 {
- "updatedAt": "2026-10-21T08:58:28.654Z",
- "count": 37,
+ "updatedAt": "2026-10-21T14:45:26.152Z",
+ "count": 38,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
   "TRAICY: ERROR HTTP 502 https://www.traicy.com/feed",
   "sky-budget: 10 items, 1 sale-ish",
-  "トラベルWatch: 15 items, 0 sale-ish",
-  "Aviation Wire: 10 items, 0 sale-ish",
-  "スカイマーク公式: 3 campaign links"
+  "トラベルWatch: 15 items, 1 sale-ish",
+  "Aviation Wire: 0 items, 0 sale-ish",
+  "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "90108504f11a",
+   "source": "トラベルWatch",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "category": "",
+   "title": "スカイマークの航空券＋宿泊で最大2万5000円分のクーポン配布。冬休み・春休みの旅行がお得に",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2149959.html",
+   "published": "2026-10-21T09:00:00.000Z",
+   "summary": "スカイパックツアーズは、スカイマークの航空券とホテルを組み合わせたダイナミックパッケージ「たす旅」で、最大2万5000円引きになるタイムセール「たす旅・TIME SALE♪」を実施している。",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "5000円"
+   ],
+   "firstSeen": "2026-10-21T14:45:26.152Z"
+  },
   {
    "id": "57f9ffec1099",
    "source": "sky-budget",
@@ -745,6 +767,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -758,23 +797,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
