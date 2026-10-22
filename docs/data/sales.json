@@ -1,15 +1,154 @@
 {
- "updatedAt": "2026-10-22T02:24:55.554Z",
- "count": 39,
+ "updatedAt": "2026-10-22T09:00:59.727Z",
+ "count": 43,
  "log": [
-  "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 2 sale-ish",
-  "sky-budget: ERROR HTTP 502 https://sky-budget.com/feed",
-  "トラベルWatch: 15 items, 1 sale-ish",
+  "TRAICY: 30 items, 11 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 0 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "2c4c78379605",
+   "source": "sky-budget",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ジェットスター・ジャパン、国内・国際線を対象に片道3,690円からのセールを10月23日12時から開催",
+   "link": "https://sky-budget.com/2026/10/22/jetstar-sale-oct2026/",
+   "published": "2026-10-22T06:44:40.000Z",
+   "summary": "ジェットスター・ジャパンは、国内線とアジア路線を対象に片道3,690円からのセールを2026年10月22日12時より開催します。詳細は以下の通りです。\n【セール対象路線】\n《成田発着》関西3,690円～、高知4,390円～、松山・新千歳4,490円～、旭川・福岡・宮崎4,990円～、熊本・長崎・大分5,490円～、那覇5,990円～、台北9,290円～、高雄9,990円～、香港12,990円～\n《",
+   "routes": [
+    "札幌⇄福岡",
+    "沖縄⇄高雄"
+   ],
+   "cities": [
+    "東京",
+    "大阪",
+    "高知",
+    "松山",
+    "札幌",
+    "旭川",
+    "福岡",
+    "宮崎",
+    "熊本",
+    "長崎",
+    "大分",
+    "沖縄",
+    "台北",
+    "高雄",
+    "香港",
+    "名古屋"
+   ],
+   "salePeriod": "販売期間≫2026年10月23日12:00～10月26日16:59※完売次第終了",
+   "boardingPeriod": "搭乗期間≫【国内線】2026年11月10日～2027年2月26日（除外期間あり）【アジア路線】2026年11月2日～2027年2月28日（除外期間あり） ）※座席数・曜日限定",
+   "prices": [
+    "片道3,690円から",
+    "3,690円～",
+    "4,390円～",
+    "4,490円～",
+    "4,990円～",
+    "5,490円～",
+    "5,990円～",
+    "9,290円～"
+   ],
+   "firstSeen": "2026-10-22T09:00:59.727Z"
+  },
+  {
+   "id": "4c12c062b6f3",
+   "source": "TRAICY",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ジェットスター・ジャパン、国内16路線・アジア5路線でセール開催　片道3,690円から",
+   "link": "https://www.traicy.com/posts/20261022385566/",
+   "published": "2026-10-22T06:36:47.000Z",
+   "summary": "ジェットスター・ジャパンは、スーパースターセールを10月23日正午から26日午後4時59分まで開催する。 国内16路線とアジア5路線が対象となる。搭乗期間は国内線が11月10日から2027年2月26日まで、アジア路線が1 […]",
+   "routes": [
+    "札幌⇄福岡",
+    "沖縄⇄高雄"
+   ],
+   "cities": [
+    "東京",
+    "大阪",
+    "高松",
+    "高知",
+    "札幌",
+    "松山",
+    "旭川",
+    "福岡",
+    "宮崎",
+    "長崎",
+    "大分",
+    "熊本",
+    "沖縄",
+    "台北",
+    "高雄",
+    "香港",
+    "名古屋"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は国内線が11月10日から2027年2月26日まで、アジア路線が11月2日から2027年2月28日まで",
+   "prices": [
+    "3,690円",
+    "4,390円",
+    "4,490円",
+    "4,990円",
+    "5,490円",
+    "5,990円",
+    "9,290円",
+    "9,990円"
+   ],
+   "firstSeen": "2026-10-22T09:00:59.727Z"
+  },
+  {
+   "id": "da870ca8d904",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ZIPAIR"
+   ],
+   "category": "",
+   "title": "ZIPAIR×星野リゾート、ハワイ旅行の航空券＋宿泊が1人1万3000円オフになるクーポン配布。戦略的協業をスタート",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2150340.html",
+   "published": "2026-10-22T04:44:17.000Z",
+   "summary": "ZIPAIR Tokyoは10月21日、星野リゾートとの戦略的協業を開始した。第一弾として、円安と物価高の続くハワイ旅行を対象にした共同プロモーションを行なう。",
+   "routes": [],
+   "cities": [
+    "ハワイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-22T09:00:59.727Z"
+  },
+  {
+   "id": "e5b4f8eb9989",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "セール",
+   "title": "ANA X、「九州ふっこう応援割」を10月22日午後2時再販売開始　熊本・長崎・佐賀県対象",
+   "link": "https://www.traicy.com/posts/20261022385489/",
+   "published": "2026-10-22T02:35:13.000Z",
+   "summary": "ANA Xは、旅行支援「九州ふっこう応援割」の熊本・長崎・佐賀県の販売を、10月22日午後2時から開始する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみで、2泊以上の場合には同一県内に宿泊する必要が […]",
+   "routes": [],
+   "cities": [
+    "熊本",
+    "長崎",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-22T09:00:59.727Z"
+  },
   {
    "id": "90108504f11a",
    "source": "トラベルWatch",
@@ -790,6 +929,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -803,23 +959,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
