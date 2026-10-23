@@ -1,15 +1,69 @@
 {
- "updatedAt": "2026-10-23T02:30:22.608Z",
- "count": 43,
+ "updatedAt": "2026-10-23T08:55:52.810Z",
+ "count": 46,
  "log": [
   "TRAICY: 30 items, 11 sale-ish",
   "TRAICY: 30 items, 2 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
-  "トラベルWatch: 15 items, 1 sale-ish",
+  "sky-budget: 10 items, 0 sale-ish",
+  "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "9597f435f30e",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "10月のANAにキュン！、国内旅行2万2000円・海外15万円の割引クーポン配布。ANA Mallは全商品5倍マイル付与",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2150664.html",
+   "published": "2026-10-23T03:23:13.000Z",
+   "summary": "ANA Xは、月替わりでお得なキャンペーンを展開する「ANAにキュン！」について、10月29日の実施内容を一部公開した。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-23T08:55:52.810Z"
+  },
+  {
+   "id": "1d5c14513ac5",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "",
+   "title": "ジェットスター、片道3690円～「スーパースターセール」本日開始。深夜早朝便の利用で京成スカイライナーがお得に",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2150649.html",
+   "published": "2026-10-23T03:10:45.000Z",
+   "summary": "ジェットスター・ジャパンは、国内16路線・アジア5路線を対象とした「スーパースターセール」を10月26日まで実施している。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-23T08:55:52.810Z"
+  },
+  {
+   "id": "3f931c7a2b0b",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、「ちいかわ」コラボキャンペーンを実施　抽選でオリジナルグッズプレゼント",
+   "link": "https://www.traicy.com/posts/20261023384126/",
+   "published": "2026-10-23T02:55:04.000Z",
+   "summary": "全日本空輸（ANA）は、「ちいかわと旅にでよう！キャンペーン」を実施する。 第1弾では、ANAアプリをダウンロードのうえ、ANAマイレージクラブ会員情報でログインし、「MYキャンペーン」からキャンペーン参加登録をした人の […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は2027年2月1日から4月30日まで",
+   "prices": [],
+   "firstSeen": "2026-10-23T08:55:52.810Z"
+  },
   {
    "id": "2c4c78379605",
    "source": "sky-budget",
@@ -929,23 +983,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -959,6 +996,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
