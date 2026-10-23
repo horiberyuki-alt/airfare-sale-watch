@@ -1,15 +1,88 @@
 {
- "updatedAt": "2026-10-23T08:55:52.810Z",
- "count": 46,
+ "updatedAt": "2026-10-23T14:32:07.222Z",
+ "count": 48,
  "log": [
   "TRAICY: 30 items, 11 sale-ish",
   "TRAICY: 30 items, 2 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "ca6759f6768e",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "JAL、国内ツアー「ダイナミックパッケージ」の期間限定タイムセールを開始 最大3万円引きクーポンも配布",
+   "link": "https://sky-budget.com/2026/10/23/jal-time-sale-2026/",
+   "published": "2026-10-23T10:33:11.000Z",
+   "summary": "日本航空（JAL）およびジャルパックは、国内航空券と宿泊を自由に組み合わせて予約できる「JALダイナミックパッケージ」の期間限定タイムセールを、2026年10月23日0時より開始しました。\n 今回のタイムセールは、2026年10月23日0時から11月2日23時57分までの期間限定で実施されます。対象となる宿泊設定期間は2026年10月24日から2027年10月10日までとなっており、直近の秋の行楽",
+   "routes": [
+    "バンコク⇄東京"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "バンコク"
+   ],
+   "salePeriod": "販売期間】2026年10月23日0:00～11月2日23:57（12～2月出発分の2日間限定セールは10月24日23:57まで） 【設定期間】2026年10月24日～2027年10月10日",
+   "boardingPeriod": "",
+   "prices": [
+    "30,000円",
+    "3,000円",
+    "100円から",
+    "1,500円から",
+    "100円"
+   ],
+   "firstSeen": "2026-10-23T14:32:07.222Z"
+  },
+  {
+   "id": "937e565d1934",
+   "source": "sky-budget",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ジェットスター・ジャパン、2026年冬ダイヤで国内7路線・計224便を追加販売 年末年始や春休みの需要増に対応",
+   "link": "https://sky-budget.com/2026/10/23/jetstar-japan-news-oct2026/",
+   "published": "2026-10-23T10:18:36.000Z",
+   "summary": "ジェットスター・ジャパンは10月23日、2026年冬期運航スケジュール（2026年10月25日〜2027年3月27日）において、国内7路線を対象に追加設定分の航空券販売を開始したと発表しました。年末年始や春休み期間におけるレジャーおよび帰省需要の増加に対応するため、期間中に合計224便を増便します。\n 今回追加設定されたのは、成田発着の6路線（成田～新千歳、成田～関西、成田～松山、成田～福岡、成田",
+   "routes": [
+    "札幌⇄東京",
+    "大阪⇄東京",
+    "東京⇄松山",
+    "東京⇄福岡",
+    "宮崎⇄東京",
+    "東京⇄沖縄",
+    "大阪⇄沖縄"
+   ],
+   "cities": [
+    "東京",
+    "札幌",
+    "大阪",
+    "松山",
+    "福岡",
+    "宮崎",
+    "沖縄"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "3,920円から",
+    "4,590円から",
+    "4,790円から",
+    "5,290円から",
+    "5,480円から",
+    "5,990円から",
+    "6,290円から",
+    "片道3,690円から"
+   ],
+   "firstSeen": "2026-10-23T14:32:07.222Z"
+  },
   {
    "id": "9597f435f30e",
    "source": "トラベルWatch",
@@ -983,6 +1056,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -996,23 +1086,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
