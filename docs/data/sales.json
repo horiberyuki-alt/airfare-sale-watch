@@ -1,15 +1,33 @@
 {
- "updatedAt": "2026-10-23T14:32:07.222Z",
- "count": 48,
+ "updatedAt": "2026-10-23T19:38:05.491Z",
+ "count": 49,
  "log": [
   "TRAICY: 30 items, 11 sale-ish",
   "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 2 sale-ish",
-  "Aviation Wire: 10 items, 0 sale-ish",
+  "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "2f6542b6e5a7",
+   "source": "Aviation Wire",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "キャンペーン",
+   "title": "JALとJR北海道、道東旅行にJR乗り放題パス　11月から周遊企画",
+   "link": "https://www.aviationwire.jp/archives/352900",
+   "published": "2026-10-23T14:40:10.000Z",
+   "summary": "日本航空（JAL/JL、9201）とJR北海道（北海道旅客鉄道）は、11月1日出発分から「ひがし＆きた北海道キャンペーン」を今年度も実施する。2027年3月31日帰着分までを対象に、JALグループ便の航空券と宿泊に、北 […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-23T19:38:05.491Z"
+  },
   {
    "id": "ca6759f6768e",
    "source": "sky-budget",
@@ -1056,23 +1074,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1086,6 +1087,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
