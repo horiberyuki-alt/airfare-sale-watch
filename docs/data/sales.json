@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-24T08:29:29.420Z",
- "count": 49,
+ "updatedAt": "2026-10-24T13:43:22.525Z",
+ "count": 50,
  "log": [
   "TRAICY: 30 items, 11 sale-ish",
   "TRAICY: 30 items, 2 sale-ish",
@@ -10,6 +10,29 @@
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "4c8bbd59a365",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "ジャルパック、国内ダイナミックパッケージでタイムセール　最大3万円割引クーポン配布",
+   "link": "https://www.traicy.com/posts/20261024385219/",
+   "published": "2026-10-24T06:44:45.000Z",
+   "summary": "ジャルパック（JALパック）は、国内航空券と宿泊がセットになった「JALダイナミックパッケージ」で10月23日から11月2日午後11時57分までタイムセールを開催している。 「期間限定タイムセール！」と記載のある全方面の […]",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "1,500円から",
+    "100円から"
+   ],
+   "firstSeen": "2026-10-24T13:43:22.525Z"
+  },
   {
    "id": "2f6542b6e5a7",
    "source": "Aviation Wire",
@@ -1074,23 +1097,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1104,6 +1110,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
