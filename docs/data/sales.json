@@ -1,15 +1,54 @@
 {
- "updatedAt": "2026-10-25T14:00:13.789Z",
- "count": 52,
+ "updatedAt": "2026-10-25T18:36:48.021Z",
+ "count": 53,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
+  "TRAICY: 30 items, 4 sale-ish",
   "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "52af1c1be7e8",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "オリオンツアー、「JAL冬旅セール」開催中　福岡2日間19,500円からなど",
+   "link": "https://www.traicy.com/posts/20261025385804/",
+   "published": "2026-10-25T10:22:51.000Z",
+   "summary": "オリオンツアーは、「冬旅セール」を10月21日から11月16日午後11時30分まで開催している。 12月1日から2027年2月28日出発が対象で、「冬旅セール」の記載があるJAL利用ツアー商品が対象となる。出発地は東京/ […]",
+   "routes": [],
+   "cities": [
+    "福岡",
+    "東京",
+    "名古屋",
+    "大阪",
+    "札幌",
+    "小松",
+    "沖縄",
+    "徳島",
+    "広島",
+    "石垣",
+    "宮古"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "18,800円から",
+    "19,500円から",
+    "22,800円から",
+    "24,200円から",
+    "23,500円から",
+    "24,700円から",
+    "28,700円から",
+    "36,300円から"
+   ],
+   "firstSeen": "2026-10-25T18:36:48.021Z"
+  },
   {
    "id": "e35787bde988",
    "source": "TRAICY",
@@ -1141,6 +1180,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1154,23 +1210,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
