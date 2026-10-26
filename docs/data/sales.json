@@ -1,15 +1,61 @@
 {
- "updatedAt": "2026-10-26T02:15:53.511Z",
- "count": 53,
+ "updatedAt": "2026-10-26T09:29:06.956Z",
+ "count": 55,
  "log": [
-  "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 4 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
-  "トラベルWatch: 15 items, 2 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "25d6222495ff",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL",
+    "スプリング・ジャパン"
+   ],
+   "category": "LCC・FSCの航空券セール情報",
+   "title": "スプリング・ジャパン、国内線全路線が片道3,111円のキャンペーンを開催中",
+   "link": "https://sky-budget.com/2026/10/26/spring-japan-sale-oct2026/",
+   "published": "2026-10-26T06:32:08.000Z",
+   "summary": "JALグループのLCCであるスプリング・ジャパンは、11月11日の「滑走路の日」を記念し、2026年10月26日（月）から「新しい風に乗ってTAKE OFFキャンペーン」を開催しています。本日発表されたブランドリニューアルと連動した本キャンペーンでは、「1」が並んだ特別価格の航空券タイムセールや割引クーポンの配布をはじめ、全5つの企画が展開されます。\n 「滑走路の日」は、滑走路の進入端に描かれる白",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "東京"
+   ],
+   "salePeriod": "予約期間】2026年10月26日（月）13:00〜10月30日（金）14:59 【搭乗期間】2026年11月16日（月）〜2027年1月12日（火） タイムセール終了後の10月30日（金）",
+   "boardingPeriod": "搭乗期間】2026年11月16日（月）〜2027年1月12日（火） タイムセール終了後の10月30日（金）15時からは、第2弾として国内線航空券の新規往復予約時に使える1,111円割引クー",
+   "prices": [
+    "片道3,111円",
+    "1,111円",
+    "21,111円"
+   ],
+   "firstSeen": "2026-10-26T09:29:06.956Z"
+  },
+  {
+   "id": "0ce74e11495d",
+   "source": "トラベルWatch",
+   "airlines": [
+    "スプリング・ジャパン"
+   ],
+   "category": "",
+   "title": "スプリング・ジャパン、国内線片道3111円のタイムセール。インスタで往復航空券プレゼントも",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2151127.html",
+   "published": "2026-10-26T04:00:00.000Z",
+   "summary": "スプリング・ジャパンは、ブランドリニューアルと滑走路の日（11月11日）にあわせて「新しい風に乗ってTAKE OFFキャンペーン」を実施する。",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-26T09:29:06.956Z"
+  },
   {
    "id": "52af1c1be7e8",
    "source": "TRAICY",
@@ -1180,23 +1226,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1210,6 +1239,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
