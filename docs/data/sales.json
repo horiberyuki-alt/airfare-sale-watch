@@ -1,15 +1,33 @@
 {
- "updatedAt": "2026-10-28T07:43:10.176Z",
- "count": 59,
+ "updatedAt": "2026-10-28T14:41:21.204Z",
+ "count": 60,
  "log": [
   "TRAICY: 30 items, 8 sale-ish",
   "TRAICY: 30 items, 1 sale-ish",
   "sky-budget: 10 items, 2 sale-ish",
-  "トラベルWatch: 15 items, 0 sale-ish",
+  "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "6032f766763c",
+   "source": "トラベルWatch",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JALどこかにマイル、10周年キャンペーン最終弾。通常4択の行き先候補が「3択」に",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2151980.html",
+   "published": "2026-10-28T10:39:25.000Z",
+   "summary": "JALは、「どこかにマイル」10周年キャンペーン最終弾として「期間限定！どこかにマイル3択キャンペーン」を開催する。期間は11月2日10時～12月1日9時59分。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-28T14:41:21.204Z"
+  },
   {
    "id": "73b9665560c6",
    "source": "sky-budget",
@@ -1323,6 +1341,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1336,23 +1371,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
