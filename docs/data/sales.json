@@ -1,15 +1,63 @@
 {
- "updatedAt": "2026-10-28T00:49:30.780Z",
- "count": 57,
+ "updatedAt": "2026-10-28T07:43:10.176Z",
+ "count": 59,
  "log": [
   "TRAICY: 30 items, 8 sale-ish",
   "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "73b9665560c6",
+   "source": "sky-budget",
+   "airlines": [
+    "スターフライヤー"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "スターフライヤー、「STARFRIDAY」を10月30日から開催 国際線クーポンや国内ダイナミックパッケージ割引などを展開",
+   "link": "https://sky-budget.com/2026/10/28/starflyer-sale-oct2026/",
+   "published": "2026-10-28T06:22:12.000Z",
+   "summary": "スターフライヤーは2026年10月28日、毎月最終金曜日に月替わりで実施しているキャンペーン「STARFRIDAY（スターフライデー）」を、10月30日午前0時より開催すると発表しました。同キャンペーンは、月末の最終金曜日に旅へのワクワク感を感じ、旅の計画を立てるきっかけにしてもらうことを目的とした企画です。\n 10月の「STARFRIDAY」では、冬の台湾旅行や国内旅行・出張をおトクに楽しめる3",
+   "routes": [
+    "北九州⇄台北",
+    "東京⇄福岡"
+   ],
+   "cities": [
+    "台湾",
+    "北九州",
+    "台北",
+    "東京",
+    "福岡"
+   ],
+   "salePeriod": "予約期間は2026年10月30日から11月5日までで、2026年12月1日から2027年1月31日までの搭乗分が対象です",
+   "boardingPeriod": "対象期間中に同路線に搭乗すると、片道ごとに通常の2倍の搭乗マイルが付与されます",
+   "prices": [
+    "2,000円",
+    "10,000円"
+   ],
+   "firstSeen": "2026-10-28T07:43:10.176Z"
+  },
+  {
+   "id": "c89862bc9ad3",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "LCC・FSCの航空券セール情報",
+   "title": "JAL、「どこかにマイル」10周年企画の最終弾として「3択キャンペーン」を11月2日より実施",
+   "link": "https://sky-budget.com/2026/10/28/jal-to-launch-3-choice-campaign-on-november-2-as-the-final-installment-of-its-10th-anniversary-initiative-for-the-dokoka-ni-mile-mystery-destination-service/",
+   "published": "2026-10-28T05:49:22.000Z",
+   "summary": "日本航空（JAL）は、「どこかにマイル」のサービス開始10周年を記念したアニバーサリーキャンペーンの最終弾（第4弾）として、2026年11月2日より「期間限定！どこかにマイル3択キャンペーン」を実施すると発表しました。\n 「どこかにマイル」は2015年12月に誕生したサービスで、通常は4つの行き先候補からランダムで1つの目的地が決定する仕組みとなっています。今回のキャンペーンでは、2026年11月",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-28T07:43:10.176Z"
+  },
   {
    "id": "d8a7558c7c14",
    "source": "TRAICY",
@@ -1275,23 +1323,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1305,6 +1336,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
