@@ -1,15 +1,64 @@
 {
- "updatedAt": "2026-10-27T20:18:44.337Z",
- "count": 55,
+ "updatedAt": "2026-10-28T00:49:30.780Z",
+ "count": 57,
  "log": [
   "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 0 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "TRAICY: 30 items, 1 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "d8a7558c7c14",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ヤフートラベル、「JAL限定クーポン」を配布　最大2万円割引",
+   "link": "https://www.traicy.com/posts/20261028386151/",
+   "published": "2026-10-27T22:15:27.000Z",
+   "summary": "LINEヤフーは、旅行予約サイト「Yahoo!トラベル（ヤフートラベル）」で、「JAL限定クーポン」の配布を10月25日正午から開始した。 日本航空（JAL）の航空券とホテルがセットになったダイナミックパッケージ「ヤフー […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は11月16日から2027年3月31日出発分まで",
+   "prices": [
+    "1,500円"
+   ],
+   "firstSeen": "2026-10-28T00:49:30.780Z"
+  },
+  {
+   "id": "cb9b9def1e68",
+   "source": "sky-budget",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "LCC・FSCの航空券セール情報",
+   "title": "ジェットスター・ジャパン、冬ダイヤの成田～香港線・関西～マニラ線で計6便を追加販売",
+   "link": "https://sky-budget.com/2026/10/28/jetstar-japan-news-oct2026-2/",
+   "published": "2026-10-27T15:47:20.000Z",
+   "summary": "ジェットスター・ジャパンは2026年10月27日、2026年冬期運航スケジュール（2026年10月25日～2027年3月27日）において、成田～香港路線および関西～マニラ路線の計2路線を対象とした追加設定分の航空券販売を開始したと発表しました。\n 今回の追加設定便は、12月のホリデーシーズンにおける移動需要の増加を見込んだもので、冬ダイヤ期間中に両路線合わせて計6便が追加運航されます。\n 成田～香",
+   "routes": [
+    "東京⇄香港",
+    "マニラ⇄大阪"
+   ],
+   "cities": [
+    "東京",
+    "香港",
+    "大阪",
+    "マニラ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "13,490円から",
+    "11,490円から"
+   ],
+   "firstSeen": "2026-10-28T00:49:30.780Z"
+  },
   {
    "id": "25d6222495ff",
    "source": "sky-budget",
@@ -1226,6 +1275,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1239,23 +1305,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
