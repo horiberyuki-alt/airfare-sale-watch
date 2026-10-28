@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-10-28T14:41:21.204Z",
- "count": 60,
+ "updatedAt": "2026-10-28T20:40:48.714Z",
+ "count": 61,
  "log": [
-  "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
+  "TRAICY: 30 items, 7 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
@@ -27,6 +27,30 @@
    "boardingPeriod": "",
    "prices": [],
    "firstSeen": "2026-10-28T14:41:21.204Z"
+  },
+  {
+   "id": "a0feeb3a8952",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JAL、「どこかにマイル」で候補地を3つに絞れるキャンペーン　11月2日から",
+   "link": "https://www.traicy.com/posts/20261028386177/",
+   "published": "2026-10-28T09:19:51.000Z",
+   "summary": "日本航空（JAL）は、「期間限定！どこかにマイル3択キャンペーン」を、11月2日午前10時から12月1日午前9時59分まで実施する。 「どこかにマイル」は通常、4つの行き先候補からランダムで1つの目的地が決まる仕組みだが […]",
+   "routes": [],
+   "cities": [
+    "東京",
+    "札幌",
+    "大阪",
+    "福岡",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-28T20:40:48.714Z"
   },
   {
    "id": "73b9665560c6",
@@ -1341,23 +1365,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1371,6 +1378,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
