@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T20:40:48.714Z",
+ "updatedAt": "2026-10-29T01:23:20.407Z",
  "count": 61,
  "log": [
   "TRAICY: 30 items, 7 sale-ish",
@@ -1365,6 +1365,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1378,23 +1395,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
