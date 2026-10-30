@@ -1,15 +1,111 @@
 {
- "updatedAt": "2026-10-29T20:44:16.978Z",
- "count": 62,
+ "updatedAt": "2026-10-30T01:25:59.991Z",
+ "count": 65,
  "log": [
-  "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "586dccb24ba9",
+   "source": "sky-budget",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "Peach、国際線を対象に片道5,000円からのセールを本日10月30日12時より開催",
+   "link": "https://sky-budget.com/2026/10/30/peachaviationsale2026oct/",
+   "published": "2026-10-30T00:44:13.000Z",
+   "summary": "Peach Aviationは、国際線を対象とした片道4,000円からのセールを本日2026年10月30日12時から開催します。\n 今回のセールでは、国際線が対象となります。詳細は以下の通りです。\n【東京発着】成田～仁川5,000円～、羽田～台北12,000円～、上海17,000円～\n【関西発着】台北12,000円～、上海13,000円～、香港10,000円～\n【中部発着】台北12,000円～\n【",
+   "routes": [
+    "ソウル⇄東京",
+    "台北⇄東京",
+    "台北⇄沖縄"
+   ],
+   "cities": [
+    "東京",
+    "ソウル",
+    "台北",
+    "上海",
+    "大阪",
+    "香港",
+    "名古屋",
+    "沖縄"
+   ],
+   "salePeriod": "販売期間】2026年10月30日 12:00～11月03日 23:59 【搭乗期間】2026年11月17日～2027年03月18日 *搭乗期間は路線によって異なります",
+   "boardingPeriod": "搭乗期間】2026年11月17日～2027年03月18日 *搭乗期間は路線によって異なります",
+   "prices": [
+    "片道4,000円から",
+    "5,000円～",
+    "12,000円～",
+    "17,000円～",
+    "13,000円～",
+    "10,000円～",
+    "9,000円～"
+   ],
+   "firstSeen": "2026-10-30T01:25:59.991Z"
+  },
+  {
+   "id": "406ddf807eb1",
+   "source": "TRAICY",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ピーチ・アビエーション、国際線でセール開催　ソウル行き片道5,000円から",
+   "link": "https://www.traicy.com/posts/20261030386416/",
+   "published": "2026-10-29T23:15:42.000Z",
+   "summary": "ピーチ・アビエーションは、国際線を対象としたセールを10月30日正午から11月3日まで開催する。 設定路線と片道最低運賃は以下の通り。燃油サーチャージなし、発券手数料や空港使用料等は別途必要となる。搭乗期間は11月17日 […]",
+   "routes": [],
+   "cities": [
+    "ソウル",
+    "東京",
+    "台北",
+    "上海",
+    "大阪",
+    "香港",
+    "名古屋",
+    "沖縄"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は11月17日から2027年3月18日まで",
+   "prices": [
+    "5,000円",
+    "12,000円",
+    "17,000円",
+    "10,000円",
+    "13,000円",
+    "9,000円"
+   ],
+   "firstSeen": "2026-10-30T01:25:59.991Z"
+  },
+  {
+   "id": "1ce417ce01e2",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "セール",
+   "title": "ANA X、「九州ふっこう応援割」を10月30日午後2時再販売開始　熊本・佐賀県対象",
+   "link": "https://www.traicy.com/posts/20261030386407/",
+   "published": "2026-10-29T22:15:04.000Z",
+   "summary": "ANA Xは、旅行支援「九州ふっこう応援割」の熊本・佐賀県の販売を、10月30日午後2時から再開する。 販売対象は航空券と宿泊がセットになったダイナミックパッケージのみで、2泊以上の場合には同一県内に宿泊する必要がある。 […]",
+   "routes": [],
+   "cities": [
+    "熊本",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-30T01:25:59.991Z"
+  },
   {
    "id": "0303750fe421",
    "source": "TRAICY",
@@ -1389,6 +1485,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1402,23 +1515,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
