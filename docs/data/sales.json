@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T14:41:12.851Z",
- "count": 65,
+ "updatedAt": "2026-10-30T20:15:44.243Z",
+ "count": 66,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
@@ -10,6 +10,31 @@
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "8b6f0ab2501d",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA",
+    "ソラシドエア"
+   ],
+   "category": "セール",
+   "title": "ソラシドエア、「九州ふっこう応援割」を10月30日開始　長崎県対象",
+   "link": "https://www.traicy.com/posts/20261030386423/",
+   "published": "2026-10-30T09:25:41.000Z",
+   "summary": "ソラシドエアとANA Xは、旅行支援「九州ふっこう応援割」の長崎県の販売を、10月30日正午から開始した。 販売対象は航空券と宿泊がセットになったダイナミックパッケージ「ソラシド+」のみとなる。宿泊期間は10月31日から […]",
+   "routes": [],
+   "cities": [
+    "長崎",
+    "熊本",
+    "鹿児島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "35,000円"
+   ],
+   "firstSeen": "2026-10-30T20:15:44.243Z"
+  },
   {
    "id": "586dccb24ba9",
    "source": "sky-budget",
@@ -1485,23 +1510,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1515,6 +1523,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
