@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-30T20:15:44.243Z",
- "count": 66,
+ "updatedAt": "2026-10-31T01:13:39.183Z",
+ "count": 67,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
@@ -10,6 +10,31 @@
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "13dca1abace3",
+   "source": "sky-budget",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "",
+   "title": "Peach、ソウル近郊・地方都市の魅力を発信する「Peachで見つける、わたしの韓国。」キャンペーンを開始 現在大阪からは1日最大9往復運航",
+   "link": "https://sky-budget.com/2026/10/31/peach-aviation-news-osaka-seoul/",
+   "published": "2026-10-30T23:04:08.000Z",
+   "summary": "Peach Aviationは2026年10月30日より、韓国観光公社との連携協定の一環として、ソウルから一歩足をのばした周辺都市への旅行スタイルを提案する新キャンペーンを開始しました。大阪/関西からソウル（金浦・仁川）へ1日最大9便を運航する利便性を活かし、気軽に訪れることができる日常の延長としての韓国旅行を推進する狙いがあります。\n 本企画の第1弾となる「渡韓メーターキャンペーン」は、関西空港",
+   "routes": [],
+   "cities": [
+    "ソウル",
+    "韓国",
+    "大阪",
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "20,000円"
+   ],
+   "firstSeen": "2026-10-31T01:13:39.183Z"
+  },
   {
    "id": "8b6f0ab2501d",
    "source": "TRAICY",
@@ -1510,6 +1535,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1523,23 +1565,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
