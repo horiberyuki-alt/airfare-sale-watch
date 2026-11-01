@@ -1,15 +1,38 @@
 {
- "updatedAt": "2026-11-01T10:53:35.965Z",
- "count": 67,
+ "updatedAt": "2026-11-01T17:23:17.324Z",
+ "count": 68,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 0 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
-  "Aviation Wire: 10 items, 0 sale-ish",
+  "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "fe6ab3d4ed27",
+   "source": "Aviation Wire",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "キャンペーン",
+   "title": "JAL、羽田－札幌75周年で計100万マイル　抽選100人に1万マイル",
+   "link": "https://www.aviationwire.jp/archives/353462",
+   "published": "2026-11-01T12:30:32.000Z",
+   "summary": "日本航空（JAL/JL、9201）は、羽田－札幌（新千歳）線就航75周年を記念し、新千歳発着の対象2路線に搭乗した人の中から抽選で計100人に1万マイルずつ、合計100万マイルをプレゼントするキャンペーンを実施している […]",
+   "routes": [
+    "札幌⇄東京"
+   ],
+   "cities": [
+    "東京",
+    "札幌"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-01T17:23:17.324Z"
+  },
   {
    "id": "13dca1abace3",
    "source": "sky-budget",
@@ -1535,23 +1558,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1565,6 +1571,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
