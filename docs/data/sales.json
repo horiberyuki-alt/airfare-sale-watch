@@ -1,15 +1,60 @@
 {
- "updatedAt": "2026-11-03T01:54:56.366Z",
- "count": 70,
+ "updatedAt": "2026-11-03T08:49:16.310Z",
+ "count": 72,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "ff22a3e65dc8",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "「JALの資産運用」でこどもNISA開始に向けたキャンペーンが始動 最大4,000マイルの付与や工場見学への招待も",
+   "link": "https://sky-budget.com/2026/11/03/jal-launches-campaign-ahead-of-the-start-of-its-asset-management-for-children-child-nisa-offering/",
+   "published": "2026-11-03T03:05:22.000Z",
+   "summary": "JALペイメント・ポート、日本航空株式会社（JAL）、SBI証券の3社は、2026年11月2日から2027年3月31日までの期間、「JALの資産運用」において新規口座開設および「こどもNISA」口座の開設を対象としたキャンペーンを実施しています。\n 今回の取り組みは、2027年1月に開始される「こどもNISA」を見据えたものです。期間中に「JALの資産運用」を通じてこどもNISA口座を開設し、所定",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-03T08:49:16.310Z"
+  },
+  {
+   "id": "a570c93ef448",
+   "source": "TRAICY",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "",
+   "title": "京成電鉄、ジェットスターの深夜・早朝便利用者向けにスカイライナー割引",
+   "link": "https://www.traicy.com/posts/20261103381854/",
+   "published": "2026-11-03T02:35:04.000Z",
+   "summary": "京成電鉄は、「ジェットスター・ジャパン創業15周年記念 京成スカイライナーコラボキャンペーン」を11月1日から12月18日まで実施する。 定刻で午後10時から翌午前7時59分までに成田空港を発着するジェットスター・ジャパ […]",
+   "routes": [],
+   "cities": [
+    "東京"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "700円",
+    "1,300円",
+    "350円",
+    "650円"
+   ],
+   "firstSeen": "2026-11-03T08:49:16.310Z"
+  },
   {
    "id": "02c9ee08203b",
    "source": "sky-budget",
@@ -1598,23 +1643,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1628,6 +1656,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
