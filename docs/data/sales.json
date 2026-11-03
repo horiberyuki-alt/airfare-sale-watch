@@ -1,15 +1,35 @@
 {
- "updatedAt": "2026-11-02T19:53:04.192Z",
- "count": 69,
+ "updatedAt": "2026-11-03T01:54:56.366Z",
+ "count": 70,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "02c9ee08203b",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JAL、夜間駐機の機内が演奏会場になる「秘密のミッドナイトステージ」広島線搭乗キャンペーンを実施",
+   "link": "https://sky-budget.com/2026/11/03/jal-launches-secret-midnight-stage-campaign-for-hiroshima-route-aircraft-parked-overnight-transformed-into-a-concert-venue/",
+   "published": "2026-11-03T01:12:19.000Z",
+   "summary": "日本航空（JAL）は、広島空港に夜間駐機する航空機の機内を特別な音楽ホールへと変える「秘密のミッドナイトステージ 広島線搭乗キャンペーン」を実施しています。対象期間中に広島線へ搭乗したJALマイレージバンク（JMB）日本地区会員の中から、抽選で10組20名をプレミアムな夜間イベントへと招待する企画です。\n 本キャンペーンの「秘密のミッドナイトステージ」は、2027年3月20日の21時から23時30",
+   "routes": [],
+   "cities": [
+    "広島"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "対象期間中に広島線へ搭乗したJALマイレージバンク（JMB）日本地区会員の中から、抽選で10組20名をプレミアムな夜間イベントへと招待する企画です",
+   "prices": [],
+   "firstSeen": "2026-11-03T01:54:56.366Z"
+  },
   {
    "id": "22599e638c15",
    "source": "TRAICY",
@@ -1578,6 +1598,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1591,23 +1628,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
