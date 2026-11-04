@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-04T03:52:09.224Z",
- "count": 72,
+ "updatedAt": "2026-11-04T11:43:57.780Z",
+ "count": 73,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 2 sale-ish",
@@ -10,6 +10,24 @@
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "dba803b56b45",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "JALじゃらんパック、「3日間限定セール」開催中　11月7日まで",
+   "link": "https://www.traicy.com/posts/20261104386843/",
+   "published": "2026-11-04T04:45:21.000Z",
+   "summary": "リクルートは、旅行予約サイト「じゃらんnet」のJAL国内線航空券とホテルなどがセットになったダイナミックパッケージ「JALじゃらんパック」で「3日間限定セール」を、11月4日午前10時から7日午前9時59分まで開催する […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は12月1日から2027年3月31日出発分まで",
+   "prices": [],
+   "firstSeen": "2026-11-04T11:43:57.780Z"
+  },
   {
    "id": "ff22a3e65dc8",
    "source": "sky-budget",
@@ -1643,23 +1661,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1673,6 +1674,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
