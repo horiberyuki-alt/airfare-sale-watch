@@ -1,15 +1,54 @@
 {
- "updatedAt": "2026-11-05T00:37:28.905Z",
- "count": 73,
+ "updatedAt": "2026-11-05T08:42:53.956Z",
+ "count": 75,
  "log": [
-  "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
+  "TRAICY: 30 items, 8 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "fe2095c4f06f",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "楽天トラベル、「JAL楽パック」で3日間限定セール開催",
+   "link": "https://www.traicy.com/posts/20261105386922/",
+   "published": "2026-11-05T07:45:22.000Z",
+   "summary": "楽天グループは、旅行予約サイト「楽天トラベル」で、日本航空（JAL）の航空券と宿泊がセットになった「JAL楽パック」で11月5日から7日までセールを実施する。 国内線全路線が対象となるものの、対象座席数には制限がある。旅 […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は11月6日出発分から2027年3月31日帰着分まで",
+   "prices": [],
+   "firstSeen": "2026-11-05T08:42:53.956Z"
+  },
+  {
+   "id": "34fc67ccfeef",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ヤフートラベル、「JAL限定早期予約クーポン」を追加配布　最大5,000円割引",
+   "link": "https://www.traicy.com/posts/20261105386880/",
+   "published": "2026-11-05T05:15:30.000Z",
+   "summary": "LINEヤフーは、旅行予約サイト「Yahoo!トラベル（ヤフートラベル）」で、「JAL限定早期予約クーポン」の追加配布を11月5日から開始した。 日本航空（JAL）の航空券とホテルのセットプラン「ヤフーパック」が対象で、 […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は12月25日から2027年9月25日出発分まで",
+   "prices": [
+    "5,000円",
+    "3,000円"
+   ],
+   "firstSeen": "2026-11-05T08:42:53.956Z"
+  },
   {
    "id": "dba803b56b45",
    "source": "TRAICY",
@@ -1661,6 +1700,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1674,23 +1730,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
