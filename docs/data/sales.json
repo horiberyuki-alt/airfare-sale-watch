@@ -1,15 +1,66 @@
 {
- "updatedAt": "2026-11-05T23:00:34.026Z",
- "count": 77,
+ "updatedAt": "2026-11-06T04:09:01.442Z",
+ "count": 79,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
-  "トラベルWatch: 15 items, 0 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
+  "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "458c3ee0bfc3",
+   "source": "sky-budget",
+   "airlines": [
+    "トキエア"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "トキエア、全路線対象の「冬タイムセール」を本日11月6日12時より開催 平日は片道6,500円",
+   "link": "https://sky-budget.com/2026/11/06/toki-air-sale-nov2026/",
+   "published": "2026-11-06T01:34:25.000Z",
+   "summary": "新潟空港を拠点とするトキエアは、2026年12月1日から12月23日までの搭乗分を対象とした「冬タイムセール」を、本日11月6日12時より4日間限定で開催します。\n 今回のセールでは、同社が運航する全路線（新潟～札幌/丘珠、新潟～名古屋/中部、新潟～神戸線）のタイムセール対象便が特別運賃で提供されます。運賃は片道税込みで、平日は6,500円、土日祝日は8,500円に設定されています。\n 同社は年末",
+   "routes": [
+    "新潟⇄札幌",
+    "名古屋⇄新潟",
+    "新潟⇄神戸"
+   ],
+   "cities": [
+    "タイ",
+    "新潟",
+    "札幌",
+    "名古屋",
+    "神戸"
+   ],
+   "salePeriod": "販売期間：2026年11月6日（金）12:00～11月9日（月）23:59まで ◇搭乗期間：2026年12月1日（火）～12月23日（水）まで ◇対象路線：トキエアが運航する全路線のタイム",
+   "boardingPeriod": "搭乗期間：2026年12月1日（火）～12月23日（水）まで ◇対象路線：トキエアが運航する全路線のタイムセール対象便 ◇運賃（片道・税込）：平日 6,500円、土日祝日 8,500円 ※",
+   "prices": [
+    "6,500円",
+    "8,500円"
+   ],
+   "firstSeen": "2026-11-06T04:09:01.442Z"
+  },
+  {
+   "id": "93223c0cdb99",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "",
+   "title": "ジェットスター、片道3690円～「スーパースターセール」本日スタート。深夜・早朝便は京成スカイライナーがお得",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2154159.html",
+   "published": "2026-11-06T00:00:00.000Z",
+   "summary": "ジェットスター・ジャパンは、国内16路線が片道3690円～の「スーパースターセール」を11月6日12時～9日16時59分に実施する。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "片道3690円～"
+   ],
+   "firstSeen": "2026-11-06T04:09:01.442Z"
+  },
   {
    "id": "9a8327def2ad",
    "source": "sky-budget",
@@ -1787,23 +1838,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1817,6 +1851,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
