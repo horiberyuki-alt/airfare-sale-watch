@@ -1,15 +1,56 @@
 {
- "updatedAt": "2026-11-06T04:09:01.442Z",
- "count": 79,
+ "updatedAt": "2026-11-06T13:26:05.603Z",
+ "count": 81,
  "log": [
-  "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 2 sale-ish",
-  "トラベルWatch: 15 items, 1 sale-ish",
+  "TRAICY: 30 items, 10 sale-ish",
+  "TRAICY: 30 items, 4 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "90cb34f77a6e",
+   "source": "トラベルWatch",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "category": "",
+   "title": "スカイマーク×名鉄観光「ブラックフライデー」、年末年始・春休みの国内ツアーがお得。21日前までキャンセル無料",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2154160.html",
+   "published": "2026-11-06T06:00:00.000Z",
+   "summary": "名鉄観光サービスは、スカイマーク利用の国内ツアーがお得になる「スカイマーク×名鉄観光感謝祭」ブラックフライデーを11月6日～27日に実施する。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-06T13:26:05.603Z"
+  },
+  {
+   "id": "a2bb2b0cff92",
+   "source": "TRAICY",
+   "airlines": [
+    "トキエア"
+   ],
+   "category": "セール・特別運賃",
+   "title": "トキエア、「冬タイムセール」開催　片道6,500円から",
+   "link": "https://www.traicy.com/posts/20261106386983/",
+   "published": "2026-11-06T02:55:56.000Z",
+   "summary": "トキエアは、「冬タイムセール」を11月6日正午から9日まで開催する。 全路線が対象で、対象便限定となる。片道運賃は平日が6,500円から、土・日・祝日が8,500円から。旅客施設使用料とシステム利用料は別途必要。 搭乗期 […]",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は12月1日から23日まで",
+   "prices": [
+    "6,500円から",
+    "8,500円から"
+   ],
+   "firstSeen": "2026-11-06T13:26:05.603Z"
+  },
   {
    "id": "458c3ee0bfc3",
    "source": "sky-budget",
@@ -1838,6 +1879,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1851,23 +1909,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
