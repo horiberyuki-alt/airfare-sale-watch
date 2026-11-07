@@ -1,15 +1,66 @@
 {
- "updatedAt": "2026-11-07T19:43:35.739Z",
- "count": 81,
+ "updatedAt": "2026-11-07T23:14:22.016Z",
+ "count": 82,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "a9bc1b23633d",
+   "source": "sky-budget",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "HIS、「ブラックフライデー」セールを11月11日に開催 ミステリーツアー1.96万円、ソウル3日間1.98万円、ホノルル直行便航空券1.52万円など",
+   "link": "https://sky-budget.com/2026/11/08/his-sale-blach-friday2026/",
+   "published": "2026-11-07T21:58:31.000Z",
+   "summary": "エイチ・アイ・エス（HIS）は、海外ツアーや海外航空券などを特別価格で提供する「ブラックフライデー」セールを11月11日から開催します。\n 今回のセールでは、オンライン予約限定の目玉商品をはじめ、年末年始出発のツアーや添乗員同行の周遊ツアー、クルーズ、海外航空券単体まで幅広い商品がラインナップされています。11月13日午前11時からは行き先が事前に明かされない「ミステリーツアー」、11月27日午前",
+   "routes": [
+    "ソウル⇄東京",
+    "ホノルル⇄東京",
+    "東京⇄香港",
+    "台北⇄東京",
+    "バンコク⇄東京",
+    "セブ⇄東京"
+   ],
+   "cities": [
+    "ソウル",
+    "ホノルル",
+    "東京",
+    "ハワイ",
+    "香港",
+    "台北",
+    "バンコク",
+    "タイ",
+    "セブ",
+    "シンガポール",
+    "グアム",
+    "ダナン",
+    "ベトナム",
+    "鹿児島",
+    "沖縄",
+    "台湾"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "10,000円～",
+    "15,200円～",
+    "17,800円～",
+    "18,400円～",
+    "24,800円～",
+    "29,800円～",
+    "55,000円～",
+    "19,800円～"
+   ],
+   "firstSeen": "2026-11-07T23:14:22.016Z"
+  },
   {
    "id": "90cb34f77a6e",
    "source": "トラベルWatch",
@@ -1879,6 +1930,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -1892,23 +1960,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
