@@ -1,15 +1,120 @@
 {
- "updatedAt": "2026-11-12T04:51:47.288Z",
- "count": 84,
+ "updatedAt": "2026-11-12T14:15:04.299Z",
+ "count": 86,
  "log": [
-  "TRAICY: 30 items, 5 sale-ish",
-  "TRAICY: 30 items, 0 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
+  "TRAICY: 30 items, 6 sale-ish",
+  "TRAICY: 30 items, 1 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "5a3c7c3b4063",
+   "source": "sky-budget",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ANA、2027年1月〜3月搭乗分の「国内線航空券タイムセール」を11月13日0時より開催",
+   "link": "https://sky-budget.com/2026/11/12/ana-time-sale-noc2026/",
+   "published": "2026-11-12T09:53:38.000Z",
+   "summary": "全日本空輸（ANA）は、2026年11月13日（金）0時00分から11月19日（木）23時59分までの7日間、ウェブサイト限定で「国内線航空券タイムセール」を実施します。今回のセールは、年明けの2027年1月4日（月）から3月27日（土）までの搭乗分が対象となっており、冬の観光シーズンや春先の旅行、帰省などに幅広く活用できる期間限定の特別運賃が全国の主要路線に設定されます。主な対象路線と片道最低運",
+   "routes": [
+    "札幌⇄東京",
+    "東京⇄沖縄",
+    "東京⇄福岡",
+    "大阪⇄東京",
+    "東京⇄長崎",
+    "東京⇄熊本",
+    "東京⇄石垣",
+    "大阪⇄札幌",
+    "仙台⇄大阪",
+    "名古屋⇄札幌",
+    "沖縄⇄福岡",
+    "沖縄⇄石垣",
+    "宮古⇄沖縄"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "札幌",
+    "沖縄",
+    "福岡",
+    "大阪",
+    "長崎",
+    "熊本",
+    "石垣",
+    "仙台",
+    "名古屋",
+    "宮古",
+    "ベトナム"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "10,450円～",
+    "11,440円～",
+    "11,000円～",
+    "9,130円～",
+    "13,750円～",
+    "10,780円～",
+    "9,570円～",
+    "10,010円～"
+   ],
+   "firstSeen": "2026-11-12T14:15:04.299Z"
+  },
+  {
+   "id": "c51cc6e735e3",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ANA、国内線でタイムセール実施　1月〜3月搭乗分",
+   "link": "https://www.traicy.com/posts/20261112387746/",
+   "published": "2026-11-12T08:40:43.000Z",
+   "summary": "全日本空輸（ANA）は、「国内線航空券タイムセール」を11月13日から19日まで実施する。 エコノミークラスの片道最低運賃と主な対象路線は、沖縄/那覇〜石垣線が5,720円、沖縄/那覇〜宮古線が5,720円、東京/羽田〜 […]",
+   "routes": [
+    "沖縄⇄石垣",
+    "宮古⇄沖縄",
+    "大阪⇄東京",
+    "名古屋⇄札幌",
+    "沖縄⇄福岡",
+    "札幌⇄東京",
+    "大阪⇄札幌",
+    "東京⇄福岡",
+    "東京⇄沖縄",
+    "東京⇄石垣"
+   ],
+   "cities": [
+    "タイ",
+    "沖縄",
+    "石垣",
+    "宮古",
+    "東京",
+    "大阪",
+    "名古屋",
+    "札幌",
+    "福岡",
+    "長崎",
+    "熊本"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は2027年1月4日から3月27日まで",
+   "prices": [
+    "5,720円",
+    "9,130円",
+    "9,570円",
+    "10,010円",
+    "10,450円",
+    "10,780円",
+    "11,000円",
+    "11,440円"
+   ],
+   "firstSeen": "2026-11-12T14:15:04.299Z"
+  },
   {
    "id": "058a5bbd4552",
    "source": "sky-budget",
@@ -2001,6 +2106,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2014,23 +2136,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
