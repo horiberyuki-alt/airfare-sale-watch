@@ -1,15 +1,280 @@
 {
- "updatedAt": "2026-11-13T02:22:02.555Z",
- "count": 86,
+ "updatedAt": "2026-11-13T11:42:22.422Z",
+ "count": 94,
  "log": [
-  "TRAICY: 30 items, 6 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
-  "トラベルWatch: 15 items, 0 sale-ish",
+  "TRAICY: 30 items, 7 sale-ish",
+  "TRAICY: 30 items, 4 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
+  "トラベルWatch: 15 items, 3 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "0c2133dd32a0",
+   "source": "トラベルWatch",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JALunLun BLACK FLYDAY 2026開催。航空券＋宿泊が最大5万円引き、JAL Mallでマイルが最大13倍になるキャンペーンなど",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2156317.html",
+   "published": "2026-11-13T08:24:08.000Z",
+   "summary": "JALは、航空券や旅行商品、ショッピングなどがお得になる「JALunLun BLACK FLYDAY 2026」を11月17日～30日に開催する。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "9e612c6bdbf5",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、国内線タイムセール開始。1～3月搭乗分、羽田～伊丹9130円～/新千歳1万450円～/福岡1万1000円～",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2156273.html",
+   "published": "2026-11-13T05:58:46.000Z",
+   "summary": "ANAは、「国内線航空券タイムセール」を11月19日23時59分まで実施している。対象搭乗期間は2027年1月4日～3月27日。ANA公式サイト限定で販売する。",
+   "routes": [
+    "大阪⇄東京"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "大阪",
+    "札幌",
+    "福岡"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "対象搭乗期間は2027年1月4日～3月27日",
+   "prices": [],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "9a586a359255",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール・特別運賃",
+   "title": "JAL、国内線でブラックフライデータイムセール開催　羽田〜千歳線が11,000円など",
+   "link": "https://www.traicy.com/posts/20261113387853/",
+   "published": "2026-11-13T05:07:12.000Z",
+   "summary": "日本航空（JAL）は、「JALunLun ブラックフライデー2026 国内航空券タイムセール」を11月17日から18日まで開催する。 片道最低運賃は、東京/羽田〜大阪/伊丹線が9,460円、東京/羽田〜札幌/千歳線が11 […]",
+   "routes": [
+    "札幌⇄東京",
+    "大阪⇄東京",
+    "東京⇄沖縄",
+    "東京⇄福岡",
+    "東京⇄鹿児島"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "札幌",
+    "大阪",
+    "沖縄",
+    "福岡",
+    "鹿児島",
+    "奄美"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は2027年1月4日から2月28日まで",
+   "prices": [
+    "9,460円",
+    "11,000円",
+    "11,440円",
+    "12,210円",
+    "15,400円",
+    "16,500円",
+    "18,700円"
+   ],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "13ed5c99c5fd",
+   "source": "トラベルWatch",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JAL、Life Statusポイントが通常の2倍貯まる3周年キャンペーン。抽選で最大30万マイルも当たる",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2156260.html",
+   "published": "2026-11-13T04:40:42.000Z",
+   "summary": "JALは11月13日、Life Statusプログラムの3周年を記念したキャンペーンのエントリー受け付けを開始した。期間は2027年3月31日まで。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "ddebdd4fde8c",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "JAL、「JALunLun ブラックフライデー2026」を11月17日より開催  国内線タイムセールやLife Status ポイント2倍企画を展開",
+   "link": "https://sky-budget.com/2026/11/13/jal-sale-35/",
+   "published": "2026-11-13T04:37:00.000Z",
+   "summary": "日本航空（JAL）グループは、2026年11月17日（火）0時00分から11月30日（月）23時59分までの期間、大型セール「JALunLun ブラックフライデー2026」を開催します。またこれに先駆け、2026年11月13日（金）より、来年1月から始まる「JAL Life Status プログラム3周年ダブルLSPキャンペーン」の事前エントリー受付を開始しました。\n 今回の「JALunLun ブ",
+   "routes": [
+    "大阪⇄東京",
+    "札幌⇄東京",
+    "東京⇄沖縄",
+    "東京⇄福岡",
+    "東京⇄熊本",
+    "大阪⇄熊本",
+    "バンコク⇄東京"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "大阪",
+    "札幌",
+    "沖縄",
+    "福岡",
+    "熊本",
+    "バンコク"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "9,460円～",
+    "11,000円～",
+    "11,440円～",
+    "12,210円～",
+    "9,900円～",
+    "50,000円"
+   ],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "f44eaa22d4e7",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JAL、Life Statusプログラム3周年でLSP2倍キャンペーン　2027年1月から",
+   "link": "https://www.traicy.com/posts/20261113387846/",
+   "published": "2026-11-13T04:11:41.000Z",
+   "summary": "日本航空（JAL）は、JAL Life Statusプログラムの3周年を記念し、獲得できるLife Statusポイント（LSP）が通常の2倍相当となるキャンペーンを実施する。 対象サービスと対象期間は、国内線の搭乗とJ […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "対象期間は、国内線の搭乗とJALカードの利用が2027年1月1日から2月28日まで、JAL Payの利用が同1月1日から3月31日まで",
+   "prices": [],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "22b6d419af21",
+   "source": "sky-budget",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ジェットスターグループ、全31路線対象の「ブラックフライデー」11月20日正午スタート 国内線3,696円～、国際線7,696円～",
+   "link": "https://sky-budget.com/2026/11/13/jetstar-sale-nov2026/",
+   "published": "2026-11-13T03:59:54.000Z",
+   "summary": "ジェットスター・ジャパンとジェットスターは、2026年11月20日12時より、日本国内線および日本発着の国際線全路線を対象としたセール「ブラックフライデー」を開催します。\n ジェットスター・ジャパンとして3回目の開催となる今回のブラックフライデーでは、国内18路線、アジア8路線、オーストラリア5路線の計31路線が対象となります。セール運賃にはブラックフライデーにちなんだ「96（クロ）」の数字が盛り",
+   "routes": [
+    "沖縄⇄高雄",
+    "札幌⇄福岡"
+   ],
+   "cities": [
+    "東京",
+    "大阪",
+    "高松",
+    "旭川",
+    "松山",
+    "高知",
+    "札幌",
+    "宮崎",
+    "鹿児島",
+    "福岡",
+    "熊本",
+    "大分",
+    "長崎",
+    "沖縄",
+    "台北",
+    "高雄",
+    "香港",
+    "マニラ",
+    "上海",
+    "名古屋"
+   ],
+   "salePeriod": "販売期間≫2026年11月20日12:00～11月26日16:59※完売次第終了",
+   "boardingPeriod": "搭乗期間≫ 【国内線】2026年12月8日～2027年6月24日（除外期間あり） 【アジア路線】2026年12月6日～2027年3月24日（除外期間あり） 【オーストラリア路線】2027年",
+   "prices": [
+    "3,696円から",
+    "7,696円から",
+    "24,696円から",
+    "3,696円～",
+    "4,296円～",
+    "4,496円～",
+    "4,696円～",
+    "5,196円～"
+   ],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "dad07f1ffe2c",
+   "source": "TRAICY",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ジェットスター、全路線対象「ブラックフライデー」開催　国内線片道3,696円から",
+   "link": "https://www.traicy.com/posts/20261113387817/",
+   "published": "2026-11-13T02:57:41.000Z",
+   "summary": "ジェットスター・ジャパンとジェットスター航空は、日本発着全路線を対象とした「ブラックフライデー」を11月20日正午から26日午後4時59分まで開催する。 日本国内18路線、アジア8路線、オーストラリア5路線が対象で、片道 […]",
+   "routes": [
+    "沖縄⇄高雄",
+    "札幌⇄福岡"
+   ],
+   "cities": [
+    "沖縄",
+    "高雄",
+    "東京",
+    "大阪",
+    "高松",
+    "旭川",
+    "松山",
+    "高知",
+    "札幌",
+    "宮崎",
+    "鹿児島",
+    "福岡",
+    "熊本",
+    "大分",
+    "長崎",
+    "台北",
+    "香港",
+    "マニラ",
+    "上海",
+    "名古屋"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は国内線が12月8日から2027年6月24日まで、アジア路線が12月6日から2027年3月24日まで、オーストラリア路線が2027年5月3日から6月30日まで",
+   "prices": [
+    "3,696円から",
+    "7,696円から",
+    "24,696円から",
+    "3,696円",
+    "4,296円",
+    "4,496円",
+    "4,696円",
+    "5,196円"
+   ],
+   "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
   {
    "id": "5a3c7c3b4063",
    "source": "sky-budget",
@@ -2106,23 +2371,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2136,6 +2384,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
