@@ -1,15 +1,54 @@
 {
- "updatedAt": "2026-11-15T16:41:46.899Z",
- "count": 95,
+ "updatedAt": "2026-11-15T22:15:55.149Z",
+ "count": 97,
  "log": [
   "TRAICY: 30 items, 7 sale-ish",
   "TRAICY: 30 items, 1 sale-ish",
   "sky-budget: 10 items, 0 sale-ish",
-  "トラベルWatch: 15 items, 3 sale-ish",
+  "トラベルWatch: 15 items, 4 sale-ish",
   "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "3f27b01b1375",
+   "source": "トラベルWatch",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "【JALふるさとアンバサダー/応援隊に聞く地域愛】JALふるさとアンバサダーお勧め！　ひがし北海道の魅力とお得なキャンペーン",
+   "link": "https://travel.watch.impress.co.jp/docs/series/jal_furusato/2154966.html",
+   "published": "2026-11-15T21:00:00.000Z",
+   "summary": "全国各地に拠点を持つJALは、地域活性化の取り組みを継続的に実施してきており（現在は「JALふるさとプロジェクト」）、2020年8月には社内公募で選ばれた客室乗務員が現地に移住して、それぞれの地域での取り組みを推進する「JALふるさとアンバサダー」を発足しているほか、同12月には乗務しながら地域活性化に携わる「JALふるさと応援隊」を任命している。故郷や縁のある地域に対して、客室乗務員として培って",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-15T22:15:55.149Z"
+  },
+  {
+   "id": "b4fcb117fdfc",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ヤフートラベル、「JAL限定早期予約クーポン」を追加配布　最大5,000円割引",
+   "link": "https://www.traicy.com/posts/20261115388160/",
+   "published": "2026-11-15T12:09:08.000Z",
+   "summary": "LINEヤフーは、旅行予約サイト「Yahoo!トラベル（ヤフートラベル）」で、「JAL限定早期予約クーポン」の追加配布を11月15日から開始した。 日本航空（JAL）の航空券とホテルのセットプラン「ヤフーパック」が対象で […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は12月25日から2027年9月25日出発分まで",
+   "prices": [
+    "5,000円",
+    "3,000円"
+   ],
+   "firstSeen": "2026-11-15T22:15:55.149Z"
+  },
   {
    "id": "ece23a9334d2",
    "source": "Aviation Wire",
@@ -2394,6 +2433,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2407,23 +2463,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
