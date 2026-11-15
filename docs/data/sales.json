@@ -1,15 +1,38 @@
 {
- "updatedAt": "2026-11-14T21:48:24.184Z",
- "count": 94,
+ "updatedAt": "2026-11-15T01:25:43.881Z",
+ "count": 95,
  "log": [
   "TRAICY: 30 items, 7 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 3 sale-ish",
-  "Aviation Wire: 10 items, 0 sale-ish",
+  "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "ece23a9334d2",
+   "source": "Aviation Wire",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "キャンペーン",
+   "title": "JALブラックフライデー、羽田－伊丹9460円から　11/17会員先行",
+   "link": "https://www.aviationwire.jp/archives/354531",
+   "published": "2026-11-14T22:55:52.000Z",
+   "summary": "日本航空（JAL/JL、9201）は、国内線航空券や旅行商品、マイル関連などの「JALunLun ブラックフライデー2026」を、11月17日から30日まで開催する。国内線航空券は17日にJALマイレージバンク（JMB […]",
+   "routes": [
+    "大阪⇄東京"
+   ],
+   "cities": [
+    "東京",
+    "大阪"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-15T01:25:43.881Z"
+  },
   {
    "id": "0c2133dd32a0",
    "source": "トラベルWatch",
@@ -2371,23 +2394,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2401,6 +2407,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
