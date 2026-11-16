@@ -1,15 +1,65 @@
 {
- "updatedAt": "2026-11-16T03:47:04.792Z",
- "count": 97,
+ "updatedAt": "2026-11-16T12:14:46.143Z",
+ "count": 99,
  "log": [
   "TRAICY: 30 items, 7 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
-  "トラベルWatch: 15 items, 3 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "a22f457aa920",
+   "source": "sky-budget",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ANA「ブラックフライデー」11月20日スタート 国内・国際線の減額マイルや最大20倍マイル、後半には「ANAにキュン！」拡大版も",
+   "link": "https://sky-budget.com/2026/11/16/ana-black-friday-2026/",
+   "published": "2026-11-16T04:55:48.000Z",
+   "summary": "全日本空輸（ANA）は、2026年11月20日（金）から11月30日（月）までの11日間限定で、大型セール企画「ANA BLACK FRIDAY」を開催します。期間中は国内外ツアーの大型割引クーポン配布や公式ECサイトでの大幅還元、さらには特典航空券の減額マイルキャンペーンなどが順次展開されるほか、最終3日間となる11月28日（土）から30日（月）には毎月恒例の「ANAにキュン！」も拡大版として同",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "ハワイ",
+    "東京",
+    "長崎"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "25,000円",
+    "150,000円",
+    "6,000円"
+   ],
+   "firstSeen": "2026-11-16T12:14:46.143Z"
+  },
+  {
+   "id": "6ff3ec8c35c4",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JALとJR北海道、今年も「ひがし＆きた北海道キャンペーン」を実施　11月1日から",
+   "link": "https://www.traicy.com/posts/20261116383135/",
+   "published": "2026-11-16T02:45:29.000Z",
+   "summary": "日本航空（JAL）とJR北海道は、ひがし＆きた北海道キャンペーンを11月1日から2027年3月31日まで実施する。 2025年に引き続き、道東と道東＆道北の2種類を展開する。旅行商品専用のフリーパスのため単独では発売せず […]",
+   "routes": [],
+   "cities": [
+    "帯広",
+    "釧路",
+    "札幌",
+    "旭川"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-16T12:14:46.143Z"
+  },
   {
    "id": "3f27b01b1375",
    "source": "トラベルWatch",
@@ -2433,6 +2483,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2446,23 +2513,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
