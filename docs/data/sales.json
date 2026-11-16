@@ -1,15 +1,68 @@
 {
- "updatedAt": "2026-11-16T12:14:46.143Z",
- "count": 99,
+ "updatedAt": "2026-11-16T23:06:34.948Z",
+ "count": 101,
  "log": [
-  "TRAICY: 30 items, 7 sale-ish",
-  "TRAICY: 30 items, 2 sale-ish",
+  "TRAICY: 30 items, 8 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
-  "Aviation Wire: 10 items, 1 sale-ish",
+  "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "af224e023408",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "",
+   "title": "ジェットスター、国内18路線・海外13路線すべてが対象のブラックフライデーセール。片道3696円から",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2156858.html",
+   "published": "2026-11-16T21:00:00.000Z",
+   "summary": "ジェットスター・ジャパンとジェットスター航空は、ブラックフライデーセールを11月20日12時～26日16時59分に実施する。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-16T23:06:34.948Z"
+  },
+  {
+   "id": "c6d84f066f47",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール・特別運賃",
+   "title": "JAL、1〜2月の国内線でブラックフライデータイムセール　あすからJMB会員先行予約開始",
+   "link": "https://www.traicy.com/posts/20261116388204/",
+   "published": "2026-11-16T12:57:45.000Z",
+   "summary": "日本航空（JAL）は、「JALunLun ブラックフライデー2026 国内線タイムセール」をあす11月17日から18日まで開催する。 片道最低運賃は、東京/羽田〜大阪/伊丹線が9,460円、東京/羽田〜札幌/千歳線が11 […]",
+   "routes": [
+    "大阪⇄東京",
+    "札幌⇄東京",
+    "東京⇄沖縄",
+    "東京⇄福岡"
+   ],
+   "cities": [
+    "タイ",
+    "東京",
+    "大阪",
+    "札幌",
+    "沖縄",
+    "福岡"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は2027年1月4日から2月28日まで",
+   "prices": [
+    "9,460円",
+    "11,000円",
+    "11,440円",
+    "12,210円"
+   ],
+   "firstSeen": "2026-11-16T23:06:34.948Z"
+  },
   {
    "id": "a22f457aa920",
    "source": "sky-budget",
@@ -2483,23 +2536,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2513,6 +2549,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
