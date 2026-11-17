@@ -1,15 +1,38 @@
 {
- "updatedAt": "2026-11-16T23:06:34.948Z",
- "count": 101,
+ "updatedAt": "2026-11-17T05:41:06.396Z",
+ "count": 102,
  "log": [
   "TRAICY: 30 items, 8 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
-  "トラベルWatch: 15 items, 1 sale-ish",
+  "sky-budget: 10 items, 0 sale-ish",
+  "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "feb02898f90e",
+   "source": "トラベルWatch",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JALのブラックフライデー、本日スタート！　羽田～伊丹線9460円から、航空券＋宿泊が最大5万円引き、JAL Mallでマイルが最大13倍",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2156975.html",
+   "published": "2026-11-17T03:00:00.000Z",
+   "summary": "JALは、航空券や旅行商品、ショッピングなどがお得になるブラックフライデーセール「JALunLun BLACK FLYDAY 2026」を開催している。期間は11月17日0時～30日23時59分。",
+   "routes": [
+    "大阪⇄東京"
+   ],
+   "cities": [
+    "東京",
+    "大阪"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-17T05:41:06.396Z"
+  },
   {
    "id": "af224e023408",
    "source": "トラベルWatch",
@@ -2536,6 +2559,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2549,23 +2589,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
