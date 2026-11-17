@@ -1,15 +1,76 @@
 {
- "updatedAt": "2026-11-17T05:41:06.396Z",
- "count": 102,
+ "updatedAt": "2026-11-17T15:08:46.190Z",
+ "count": 105,
  "log": [
   "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 0 sale-ish",
-  "トラベルWatch: 15 items, 2 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 3 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "3301984686c8",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JALペイメント・ポート、ブラックフライデーで「JAL Pay」チャージキャンペーンを開催 最大6,000ポイントや1,000マイルを付与",
+   "link": "https://sky-budget.com/2026/11/17/jal-payment-port-launches-jal-pay-top-up-campaign-for-black-friday/",
+   "published": "2026-11-17T07:58:27.000Z",
+   "summary": "JALペイメント・ポートは2026年11月17日、プリペイド決済サービス「JAL Pay」へのチャージでボーナスマイルやJAL Payポイントを付与するブラックフライデー特別キャンペーンを開始しました。実施期間は11月17日から11月30日までとなります。\n 今回のキャンペーンは、期間中に専用ページからエントリーの上、対象の方法でJAL Payへチャージすることで、その方法に応じた特典が付与される",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "東京"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-17T15:08:46.190Z"
+  },
+  {
+   "id": "d96f4049d896",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL",
+    "ANA"
+   ],
+   "category": "セール",
+   "title": "ヤフートラベル、対象プラン利用でPayPayポイント最大10％還元　12月1日まで",
+   "link": "https://www.traicy.com/posts/20261117388308/",
+   "published": "2026-11-17T07:19:49.000Z",
+   "summary": "LINEヤフーは、旅行予約サイト「Yahoo!トラベル（ヤフートラベル）」で、「＋5％お得キャンペーン」を11月16日正午から12月1日まで開催する。 対象は、日本航空（JAL）もしくは全日本空輸（ANA）を利用するヤフ […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "100円"
+   ],
+   "firstSeen": "2026-11-17T15:08:46.190Z"
+  },
+  {
+   "id": "31ecd02230f3",
+   "source": "トラベルWatch",
+   "airlines": [
+    "JAL",
+    "ANA"
+   ],
+   "category": "",
+   "title": "Yahoo!トラベル、航空券＋宿泊がお得な「ヤフーパック ブラックフライデー」。JAL/ANA便クーポン、PayPayポイント最大10％付与など",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2157053.html",
+   "published": "2026-11-17T07:03:17.000Z",
+   "summary": "Yahoo!トラベルは、航空券と宿泊を組み合わせて予約できる「ヤフーパック」を対象にしたブラックフライデーセールを実施している。期間は11月16日12時～12月1日11時59分の16日間で、対象旅行期間は11月17日～2027年5月31日出発分。",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は11月17日～2027年5月31日出発分",
+   "prices": [],
+   "firstSeen": "2026-11-17T15:08:46.190Z"
+  },
   {
    "id": "feb02898f90e",
    "source": "トラベルWatch",
@@ -2559,23 +2620,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2589,6 +2633,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
