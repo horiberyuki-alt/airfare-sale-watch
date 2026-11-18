@@ -1,15 +1,93 @@
 {
- "updatedAt": "2026-11-18T05:05:40.930Z",
- "count": 105,
+ "updatedAt": "2026-11-18T14:47:02.297Z",
+ "count": 107,
  "log": [
-  "TRAICY: 30 items, 8 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "5fae2ce39d01",
+   "source": "sky-budget",
+   "airlines": [
+    "FDA"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "FDA(フジドリームエアラインズ)、会員を対象に片道5,800円からの『ブラックフライデーセール』を11月25日11時より開催 無料登録可",
+   "link": "https://sky-budget.com/2026/11/18/fda-sale-9/",
+   "published": "2026-11-18T07:04:53.000Z",
+   "summary": "FDA(フジドリームエアラインズ)は、2026年11月25日から12月9日の期間で『ブラックフライデーセール』を実施し、会員限定割引運賃「メンバーズプライス」として片道5,800円からのセールを11月25日11時より開催します。なお同社の会員には、無料で登録することが可能です。\n 今回のセールでは、会員限定割引運賃「メンバーズプライス」の販売に加え、飛行機とホテルの旅行商品のタイムセール（搭乗期間",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "名古屋",
+    "新潟",
+    "高知",
+    "熊本",
+    "福岡",
+    "静岡",
+    "札幌",
+    "鹿児島",
+    "神戸",
+    "仙台"
+   ],
+   "salePeriod": "販売期間：11月25日11時00分〜12月9日23時59分）や、29歳以下を対象としたお得な旅行プランの提供、FDAショップでのグッズセット販売（販売期間：11月24日18時00分〜12月",
+   "boardingPeriod": "搭乗期間：2026年12月1日〜2027年2月28日 ※年末年始・3連休を除く、販売期間：11月25日11時00分〜12月9日23時59分）や、29歳以下を対象としたお得な旅行プランの提供",
+   "prices": [
+    "片道5,800円から",
+    "7,500円～",
+    "8,500円～",
+    "9,000円～",
+    "7,900円～",
+    "8,200円～",
+    "9,500円～",
+    "6,500円～"
+   ],
+   "firstSeen": "2026-11-18T14:47:02.297Z"
+  },
+  {
+   "id": "7202fa855005",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール・特別運賃",
+   "title": "JAL、国際線航空券でブラックフライデータイムセール開催中　台北往復5.9万円、ホノルル往復11万円など",
+   "link": "https://www.traicy.com/posts/20261118388397/",
+   "published": "2026-11-18T03:10:51.000Z",
+   "summary": "日本航空（JAL）は、「JALunLun ブラックフライデー2026 海外航空券タイムセール」を11月18日から30日まで開催している。 東京発の設定路線と往復最低運賃は以下の通り。左からエコノミークラス、プレミアムエコ […]",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "台北",
+    "ホノルル",
+    "東京",
+    "上海",
+    "マニラ",
+    "グアム",
+    "ハワイ",
+    "クアラルンプール",
+    "バンコク",
+    "シンガポール"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は11月18日から2027年9月30日まで、路線により異なる",
+   "prices": [
+    "16,000円",
+    "53,000円",
+    "122,000円",
+    "55,000円",
+    "121,000円",
+    "59,000円",
+    "209,000円",
+    "70,000円"
+   ],
+   "firstSeen": "2026-11-18T14:47:02.297Z"
+  },
   {
    "id": "3301984686c8",
    "source": "sky-budget",
@@ -2620,6 +2698,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2633,23 +2728,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
