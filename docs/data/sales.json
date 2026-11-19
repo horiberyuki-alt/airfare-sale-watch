@@ -1,15 +1,63 @@
 {
- "updatedAt": "2026-11-19T14:53:44.762Z",
- "count": 111,
+ "updatedAt": "2026-11-19T22:49:07.079Z",
+ "count": 113,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
-  "Aviation Wire: 10 items, 1 sale-ish",
+  "Aviation Wire: 10 items, 2 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "a3c0780d670b",
+   "source": "Aviation Wire",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "キャンペーン",
+   "title": "ANA、国内線特典航空券3000マイルから　航空券セールと別にブラックフライデー",
+   "link": "https://www.aviationwire.jp/archives/354873",
+   "published": "2026-11-19T15:20:24.000Z",
+   "summary": "全日本空輸（ANA/NH）を中核とするANAグループは11月20日から30日までの11日間、特別企画「ANA BLACK FRIDAY」を開催する。国内線全路線と国際線36路線の特典航空券を通常より少ないマイル数で交換 […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-19T22:49:07.079Z"
+  },
+  {
+   "id": "a811c4409efb",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JAL、国際線特典航空券のタイムセールを実施　ホノルルへ片道14,000マイルから",
+   "link": "https://www.traicy.com/posts/20261119388709/",
+   "published": "2026-11-19T13:26:49.000Z",
+   "summary": "日本航空（JAL）は、「JALunLun ブラックフライデー2026」でJAL国際線特典航空券を対象としたタイムセールを11月18日から30日まで実施している。 片道あたりの必要マイル数は以下の通り。左からエコノミークラ […]",
+   "routes": [
+    "台北⇄沖縄",
+    "ホノルル⇄東京"
+   ],
+   "cities": [
+    "タイ",
+    "ホノルル",
+    "沖縄",
+    "台北",
+    "グアム",
+    "東京",
+    "大阪",
+    "名古屋"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は11月19日から、沖縄/那覇〜台北線が2027年3月27日まで、北米線が2027年2月28日まで、ホノルル線とグアム線が2027年7月31日まで",
+   "prices": [],
+   "firstSeen": "2026-11-19T22:49:07.079Z"
+  },
   {
    "id": "555df1231e31",
    "source": "sky-budget",
@@ -2820,6 +2868,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2833,23 +2898,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
