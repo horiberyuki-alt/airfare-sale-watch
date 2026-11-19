@@ -1,15 +1,97 @@
 {
- "updatedAt": "2026-11-19T04:59:07.819Z",
- "count": 109,
+ "updatedAt": "2026-11-19T14:53:44.762Z",
+ "count": 111,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
   "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "555df1231e31",
+   "source": "sky-budget",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "",
+   "title": "Peach、2027年夏ダイヤの国際線9路線を販売開始 関西〜ソウル線が片道5,280円から",
+   "link": "https://sky-budget.com/2026/11/19/peach-sale-2026/",
+   "published": "2026-11-19T08:23:08.000Z",
+   "summary": "Peach Aviationは2026年11月19日16時より、2027年夏ダイヤ期間（2027年3月28日〜10月30日）における一部路線の航空券の販売を開始しました。今回販売の対象となるのは、大阪/関西、東京/羽田、名古屋/中部、沖縄/那覇の4空港を発着する国際線9路線です。なお、これら以外の路線の航空券についても、準備が整い次第、販売を開始する予定としています。\n対象路線と片道ミニマム運賃は",
+   "routes": [
+    "ソウル⇄大阪",
+    "上海⇄大阪",
+    "大阪⇄香港",
+    "ソウル⇄東京",
+    "上海⇄東京",
+    "ソウル⇄名古屋",
+    "台北⇄名古屋",
+    "台北⇄沖縄"
+   ],
+   "cities": [
+    "大阪",
+    "ソウル",
+    "東京",
+    "名古屋",
+    "沖縄",
+    "上海",
+    "香港",
+    "台北"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "5,280円～",
+    "13,480円～",
+    "15,180円～",
+    "5,680円～",
+    "17,480円～",
+    "5,780円～",
+    "14,480円～",
+    "9,790円～"
+   ],
+   "firstSeen": "2026-11-19T14:53:44.762Z"
+  },
+  {
+   "id": "90e6ab526519",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "JAL、国際線タイムセールを開催中 ホノルル往復110,800円～など",
+   "link": "https://sky-budget.com/2026/11/19/jal-sale-inter/",
+   "published": "2026-11-19T08:06:44.000Z",
+   "summary": "JALは、「JALunLun ブラックフライデー2026」の一環として、海外航空券タイムセールを開催中です。詳細は以下の通りです。\n【対象路線】エコノミークラス、プレミアムエコノミークラス、ビジネスクラスが対象となります※一部路線の紹介となり、この他にもセール運賃が設定されている路線があります。\n日本国内～上海 往復53,000円～\n日本国内～北京 往復55,000円～\n日本国内～台北 往復30,",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "ホノルル",
+    "上海",
+    "台北",
+    "マニラ",
+    "グアム",
+    "ハワイ",
+    "クアラルンプール",
+    "東京"
+   ],
+   "salePeriod": "販売期間】2026年11月30日まで 【搭乗期間】2026年11月18日～2027年9月30日 ※路線により異なる 予約はこちら 最安値航空券の検索・予約はこちら JAL、東京～ニューヨー",
+   "boardingPeriod": "搭乗期間】2026年11月18日～2027年9月30日 ※路線により異なる 予約はこちら 最安値航空券の検索・予約はこちら JAL、東京～ニューヨーク線就航60周年で記念セレモニーを開催 ",
+   "prices": [
+    "往復53,000円～",
+    "往復55,000円～",
+    "往復30,200円～",
+    "往復70,000円～",
+    "往復75,000円～",
+    "往復89,000円～",
+    "往復94,900円～",
+    "往復104,900円～"
+   ],
+   "firstSeen": "2026-11-19T14:53:44.762Z"
+  },
   {
    "id": "a1e3d733ae00",
    "source": "Aviation Wire",
@@ -2738,23 +2820,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2768,6 +2833,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
