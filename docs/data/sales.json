@@ -1,15 +1,37 @@
 {
- "updatedAt": "2026-11-18T22:45:52.158Z",
- "count": 108,
+ "updatedAt": "2026-11-19T04:59:07.819Z",
+ "count": 109,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 2 sale-ish",
+  "TRAICY: 30 items, 1 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 1 sale-ish",
-  "Aviation Wire: 10 items, 0 sale-ish",
+  "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "a1e3d733ae00",
+   "source": "Aviation Wire",
+   "airlines": [
+    "ZIPAIR"
+   ],
+   "category": "運賃",
+   "title": "ZIPAIR、ロス6.5万円・バンコク約2.5万円から　夏ダイヤ9月以降追加",
+   "link": "https://www.aviationwire.jp/archives/354839",
+   "published": "2026-11-19T04:26:08.000Z",
+   "summary": "ZIPAIR（ジップエア、TZP/ZG）は11月19日、成田発着のロサンゼルス、サンフランシスコ、バンコク（スワンナプーム）、ソウル（仁川）の4路線について、夏ダイヤの航空券を追加販売すると発表した。ロサンゼルス線とバ […]",
+   "routes": [],
+   "cities": [
+    "バンコク",
+    "東京",
+    "ソウル"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-19T04:59:07.819Z"
+  },
   {
    "id": "c8ade1a23958",
    "source": "トラベルWatch",
@@ -2716,6 +2738,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2729,23 +2768,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
