@@ -1,15 +1,83 @@
 {
- "updatedAt": "2026-11-20T14:34:55.573Z",
- "count": 114,
+ "updatedAt": "2026-11-20T22:26:02.075Z",
+ "count": 117,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
-  "sky-budget: 10 items, 3 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
-  "Aviation Wire: 10 items, 1 sale-ish",
+  "Aviation Wire: 10 items, 2 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "03cd13d73fd0",
+   "source": "Aviation Wire",
+   "airlines": [
+    "ジェットスター"
+   ],
+   "category": "キャンペーン",
+   "title": "ジェットスター、国内3696円から　ブラックフライデー11/26まで",
+   "link": "https://www.aviationwire.jp/archives/354945",
+   "published": "2026-11-20T14:58:46.000Z",
+   "summary": "ジェットスター・ジャパン（JJP/GK）と豪州のジェットスター航空（JST/JQ）のジェットスター・グループ2社は11月20日、日本発着全31路線を対象とした「ブラックフライデー」セールを始めた。片道運賃は国内線が36 […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-20T22:26:02.075Z"
+  },
+  {
+   "id": "66745a9b9e20",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、国際線特典航空券で減額マイル　11月24日まで、ブラックフライデーキャンペーン",
+   "link": "https://www.traicy.com/posts/20261120388823/",
+   "published": "2026-11-20T13:45:02.000Z",
+   "summary": "全日本空輸（ANA）は、ブラックフライデーで「ANA国際線特典航空券 減額マイルキャンペーン」を11月20日から24日まで実施している。 対象路線は、東京/成田〜上海/浦東・大連・杭州・バンコク・シンガポール・ジャカルタ […]",
+   "routes": [
+    "上海⇄東京",
+    "上海⇄大阪"
+   ],
+   "cities": [
+    "東京",
+    "上海",
+    "バンコク",
+    "シンガポール",
+    "クアラルンプール",
+    "ホノルル",
+    "香港",
+    "大阪"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は12月5日から2027年6月30日までで、路線により異なる",
+   "prices": [],
+   "firstSeen": "2026-11-20T22:26:02.075Z"
+  },
+  {
+   "id": "d12c90d3e5da",
+   "source": "TRAICY",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、ブラックフライデーで減額マイルキャンペーン　全路線対象、11月24日まで",
+   "link": "https://www.traicy.com/posts/20261120388750/",
+   "published": "2026-11-20T09:04:20.000Z",
+   "summary": "全日本空輸（ANA）は、ブラックフライデーで「ANA国内線減額マイルキャンペーン」を11月20日から24日まで開催する。 2027年1月7日から2月28日まで搭乗分の国内線特典航空券が対象で、直行旅程に限り全路線で通常よ […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "3,000円"
+   ],
+   "firstSeen": "2026-11-20T22:26:02.075Z"
+  },
   {
    "id": "8102156df621",
    "source": "sky-budget",
@@ -2899,23 +2967,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2929,6 +2980,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
