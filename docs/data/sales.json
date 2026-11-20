@@ -1,15 +1,46 @@
 {
- "updatedAt": "2026-11-19T22:49:07.079Z",
- "count": 113,
+ "updatedAt": "2026-11-20T04:50:34.393Z",
+ "count": 114,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 2 sale-ish",
-  "sky-budget: 10 items, 2 sale-ish",
-  "トラベルWatch: 15 items, 1 sale-ish",
+  "TRAICY: 30 items, 1 sale-ish",
+  "sky-budget: 10 items, 3 sale-ish",
+  "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 2 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "8102156df621",
+   "source": "sky-budget",
+   "airlines": [
+    "スターフライヤー"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "スターフライヤー、ブラックフライデー特別企画「11月STARFRIDAY」を開催 台北線やダイナミックパッケージの割引クーポンを配布",
+   "link": "https://sky-budget.com/2026/11/20/starflyer-sale-20/",
+   "published": "2026-11-19T23:57:57.000Z",
+   "summary": "スターフライヤーは2026年11月19日、月替わりキャンペーン「STARFRIDAY（スターフライデー）」の11月企画を発表しました。旅へのワクワク感を感じてもらうきっかけとして通常は毎月最終金曜日に実施しているキャンペーンですが、11月はブラックフライデー特別企画として2026年11月20日午前0時より開催します。今回は、国際線定期便の予約に使える割引クーポンと、公式ダイナミックパッケージの割引",
+   "routes": [
+    "北九州⇄台北",
+    "北九州⇄高雄",
+    "東京⇄福岡"
+   ],
+   "cities": [
+    "台北",
+    "北九州",
+    "高雄",
+    "東京",
+    "福岡"
+   ],
+   "salePeriod": "予約期間は2026年11月20日から11月27日まで、搭乗期間は2026年12月1日から2027年3月27日までとなっています",
+   "boardingPeriod": "搭乗期間は2026年12月1日から2027年3月27日までとなっています",
+   "prices": [
+    "2,000円",
+    "15,000円"
+   ],
+   "firstSeen": "2026-11-20T04:50:34.393Z"
+  },
   {
    "id": "a3c0780d670b",
    "source": "Aviation Wire",
@@ -2868,23 +2899,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2898,6 +2912,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
