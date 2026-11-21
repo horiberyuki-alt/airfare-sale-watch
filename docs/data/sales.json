@@ -1,15 +1,36 @@
 {
- "updatedAt": "2026-11-20T22:26:02.075Z",
- "count": 117,
+ "updatedAt": "2026-11-21T04:44:48.139Z",
+ "count": 118,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 2 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 2 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "208e5c005006",
+   "source": "Aviation Wire",
+   "airlines": [
+    "ZIPAIR"
+   ],
+   "category": "キャンペーン",
+   "title": "ZIPAIR、ブラックフライデーで6路線セール　新路線クアラルンプールも",
+   "link": "https://www.aviationwire.jp/archives/354964",
+   "published": "2026-11-21T04:21:28.000Z",
+   "summary": "ZIPAIR（ジップエア、TZP/ZG）は11月20日、成田発の国際線6路線を対象にブラックフライデーセールを始めた。販売は30日までで、搭乗期間は21日から2027年3月14日まで。エコノミークラス「Standard […]",
+   "routes": [],
+   "cities": [
+    "クアラルンプール",
+    "東京"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は21日から2027年3月14日まで",
+   "prices": [],
+   "firstSeen": "2026-11-21T04:44:48.139Z"
+  },
   {
    "id": "03cd13d73fd0",
    "source": "Aviation Wire",
@@ -2967,6 +2988,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -2980,23 +3018,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
