@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T04:44:48.139Z",
- "count": 118,
+ "updatedAt": "2026-11-21T13:52:55.699Z",
+ "count": 120,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
@@ -10,6 +10,57 @@
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "4e21adadf5f1",
+   "source": "sky-budget",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "",
+   "title": "JAL NEOBANK、外貨送金の受取で最大15万マイルを付与するキャンペーンを開始",
+   "link": "https://sky-budget.com/2026/11/21/jal-neobank-news/",
+   "published": "2026-11-21T11:07:23.000Z",
+   "summary": "JALペイメント・ポートとドコモSMTBネット銀行は、JALマイレージバンク会員専用のネット銀行口座「JAL NEOBANK」において、「外貨受取でマイルプレゼントキャンペーン」を2026年11月20日より開始しました。\n 同キャンペーンは、2026年11月20日から2027年1月15日までの対象期間中にキャンペーンページよりエントリーのうえ、他の金融機関から外貨送金受取サービスを利用して一定金額",
+   "routes": [],
+   "cities": [
+    "東京"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "対象期間中にキャンペーンページよりエントリーのうえ、他の金融機関から外貨送金受取サービスを利用して一定金額以上の米ドルをJAL NEOBANKの外貨預金口座で受け取った利用者を対象とするも",
+   "prices": [],
+   "firstSeen": "2026-11-21T13:52:55.699Z"
+  },
+  {
+   "id": "8c0e469b3c6f",
+   "source": "TRAICY",
+   "airlines": [
+    "ZIPAIR"
+   ],
+   "category": "セール・特別運賃",
+   "title": "ZIPAIR Tokyo、ブラックフライデーセール開催　片道26,560円から",
+   "link": "https://www.traicy.com/posts/20261121388882/",
+   "published": "2026-11-21T09:34:11.000Z",
+   "summary": "ZIPAIR Tokyoは、「BLACK FRIDAY SALE」を11月20日から30日まで開催している。 対象は東京/成田〜クアラルンプール・ホノルル・バンクーバー・ロサンゼルス・ヒューストン・サンフランシスコ線で、 […]",
+   "routes": [
+    "クアラルンプール⇄東京"
+   ],
+   "cities": [
+    "東京",
+    "クアラルンプール",
+    "ホノルル"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は2027年3月14日まで",
+   "prices": [
+    "片道26,560円から",
+    "26,560円",
+    "36,440円",
+    "39,935円",
+    "52,040円",
+    "55,290円"
+   ],
+   "firstSeen": "2026-11-21T13:52:55.699Z"
+  },
   {
    "id": "208e5c005006",
    "source": "Aviation Wire",
@@ -2988,23 +3039,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3018,6 +3052,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
