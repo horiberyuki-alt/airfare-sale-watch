@@ -1,15 +1,42 @@
 {
- "updatedAt": "2026-11-22T01:46:40.890Z",
- "count": 120,
+ "updatedAt": "2026-11-22T09:01:38.335Z",
+ "count": 121,
  "log": [
   "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
+  "TRAICY: 30 items, 4 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 2 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "d25cb5553c89",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ヤフートラベル、JAL限定「みやざき空旅キャンペーン」を開催中　ヤフーパックが最大3万円引き",
+   "link": "https://www.traicy.com/posts/20261122389060/",
+   "published": "2026-11-22T02:35:26.000Z",
+   "summary": "LINEヤフーが運営する旅行予約サイト「Yahoo!トラベル（ヤフートラベル）」は、「みやざき空旅キャンペーン」を開催している。 JAL便を利用するヤフーパック（宿泊＋航空券）が対象で、東京/羽田・福岡発宮崎行きの日本航 […]",
+   "routes": [],
+   "cities": [
+    "東京",
+    "福岡",
+    "宮崎"
+   ],
+   "salePeriod": "予約期間は11月20日正午から2027年1月30日まで",
+   "boardingPeriod": "旅行期間は11月21日から2027年2月1日帰着まで",
+   "prices": [
+    "5,000円",
+    "10,000円",
+    "30,000円",
+    "90,000円"
+   ],
+   "firstSeen": "2026-11-22T09:01:38.335Z"
+  },
   {
    "id": "4e21adadf5f1",
    "source": "sky-budget",
@@ -3039,6 +3066,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3052,23 +3096,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
