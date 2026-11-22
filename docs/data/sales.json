@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-11-22T17:28:58.290Z",
- "count": 122,
+ "updatedAt": "2026-11-22T22:57:08.620Z",
+ "count": 123,
  "log": [
-  "TRAICY: 30 items, 8 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
@@ -747,6 +747,44 @@
    "boardingPeriod": "",
    "prices": [],
    "firstSeen": "2026-11-13T11:42:22.422Z"
+  },
+  {
+   "id": "778bcdbff657",
+   "source": "TRAICY",
+   "airlines": [
+    "IBEX"
+   ],
+   "category": "セール・特別運賃",
+   "title": "アイベックスエアラインズ、全路線でタイムセール開催　片道6,820円から",
+   "link": "https://www.traicy.com/posts/20261113389159/",
+   "published": "2026-11-13T06:56:25.000Z",
+   "summary": "アイベックスエアラインズは、「IBEXタイムセール」を11月13日から19日まで実施する。 全路線が対象で、設定路線と片道最低運賃は以下の通り。大人片道運賃の最大83％割引となる。搭乗期間は12月1日から2027年2月2 […]",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "仙台",
+    "札幌",
+    "名古屋",
+    "大阪",
+    "広島",
+    "福岡",
+    "大分",
+    "松山",
+    "新潟"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は12月1日から2027年2月28日まで、12月26日から2027年1月3日は対象外となる",
+   "prices": [
+    "6,820円",
+    "8,800円",
+    "9,350円",
+    "10,450円",
+    "12,100円",
+    "8,360円",
+    "8,690円",
+    "7,480円"
+   ],
+   "firstSeen": "2026-11-22T22:57:08.620Z"
   },
   {
    "id": "9e612c6bdbf5",
@@ -3091,6 +3129,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3104,23 +3159,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
