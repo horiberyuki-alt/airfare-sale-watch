@@ -1,15 +1,40 @@
 {
- "updatedAt": "2026-11-22T09:01:38.335Z",
- "count": 121,
+ "updatedAt": "2026-11-22T17:28:58.290Z",
+ "count": 122,
  "log": [
-  "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 4 sale-ish",
+  "TRAICY: 30 items, 8 sale-ish",
+  "TRAICY: 30 items, 3 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 2 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "94cdde916a82",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ジャルパック、海外ダイナミックパッケージで「BLACK FLYDAY タイムセール」を実施中　最大5万円割引",
+   "link": "https://www.traicy.com/posts/20261122389128/",
+   "published": "2026-11-22T13:43:11.000Z",
+   "summary": "ジャルパックは、JAL海外ダイナミックパッケージで「BLACK FLYDAY タイムセール」を11月17日から30日まで実施している。 1人あたり最大5万円割引のクーポンを配布している。旅行代金や出発時期に応じて1万50 […]",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "ハワイ",
+    "グアム"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "5000円",
+    "片道500円"
+   ],
+   "firstSeen": "2026-11-22T17:28:58.290Z"
+  },
   {
    "id": "d25cb5553c89",
    "source": "TRAICY",
@@ -3066,23 +3091,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3096,6 +3104,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
