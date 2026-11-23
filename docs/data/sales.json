@@ -1,15 +1,41 @@
 {
- "updatedAt": "2026-11-22T22:57:08.620Z",
- "count": 123,
+ "updatedAt": "2026-11-23T04:41:45.909Z",
+ "count": 124,
  "log": [
-  "TRAICY: 30 items, 9 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
+  "TRAICY: 30 items, 10 sale-ish",
+  "TRAICY: 30 items, 4 sale-ish",
+  "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
-  "Aviation Wire: 10 items, 2 sale-ish",
+  "Aviation Wire: 10 items, 1 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "9f28a86b4918",
+   "source": "TRAICY",
+   "airlines": [
+    "スターフライヤー"
+   ],
+   "category": "セール・特別運賃",
+   "title": "スターフライヤー、北九州〜台北/桃園線で割引　片道2,000円",
+   "link": "https://www.traicy.com/posts/20261123389139/",
+   "published": "2026-11-23T00:15:47.000Z",
+   "summary": "スターフライヤーは、「STARFRIDAY」キャンペーンで、台北路線で利用できる割引クーポンを11月20日から27日まで配布する。 対象路線は北九州〜台北/桃園線で、大人1名あたり片道2,000円もしくは400台湾ドルが […]",
+   "routes": [
+    "北九州⇄台北"
+   ],
+   "cities": [
+    "北九州",
+    "台北",
+    "台湾"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は12月1日から2027年3月27日まで",
+   "prices": [
+    "片道2,000円"
+   ],
+   "firstSeen": "2026-11-23T04:41:45.909Z"
+  },
   {
    "id": "94cdde916a82",
    "source": "TRAICY",
@@ -3129,23 +3155,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3159,6 +3168,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
