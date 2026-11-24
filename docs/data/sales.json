@@ -1,15 +1,38 @@
 {
- "updatedAt": "2026-11-23T16:48:44.918Z",
- "count": 124,
+ "updatedAt": "2026-11-24T03:36:21.468Z",
+ "count": 125,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 3 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 0 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
-  "Aviation Wire: 10 items, 1 sale-ish",
+  "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "073b454f7697",
+   "source": "TRAICY",
+   "airlines": [
+    "FDA"
+   ],
+   "category": "セール・特別運賃",
+   "title": "FDA、ブラックフライデーセールを11月25日から開催　片道5,800円から",
+   "link": "https://www.traicy.com/posts/20261124388939/",
+   "published": "2026-11-24T01:15:25.000Z",
+   "summary": "フジドリームエアラインズ（FDA）は、「FDAブラックフライデーセール」を11月25日午前11時から12月9日まで開催する。 FDA会員限定の割引運賃「メンバーズプライス運賃」を販売するほか、航空券とホテルを組み合わせた […]",
+   "routes": [],
+   "cities": [
+    "タイ"
+   ],
+   "salePeriod": "11月25日から12月1日まで販売する",
+   "boardingPeriod": "対象搭乗期間は12月14日から2027年2月28日までで、12月26日から2027年1月4日までは除く",
+   "prices": [
+    "片道5,800円から",
+    "5,800円から"
+   ],
+   "firstSeen": "2026-11-24T03:36:21.468Z"
+  },
   {
    "id": "9f28a86b4918",
    "source": "TRAICY",
@@ -3155,23 +3178,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3185,6 +3191,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
