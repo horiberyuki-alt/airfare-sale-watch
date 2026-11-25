@@ -1,15 +1,35 @@
 {
- "updatedAt": "2026-11-24T14:24:30.507Z",
- "count": 126,
+ "updatedAt": "2026-11-25T00:13:30.875Z",
+ "count": 127,
  "log": [
-  "TRAICY: 30 items, 10 sale-ish",
-  "TRAICY: 30 items, 1 sale-ish",
+  "TRAICY: 30 items, 9 sale-ish",
+  "TRAICY: 30 items, 2 sale-ish",
   "sky-budget: 10 items, 1 sale-ish",
   "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "1cf3b60ea24a",
+   "source": "TRAICY",
+   "airlines": [
+    "JAL"
+   ],
+   "category": "セール",
+   "title": "ヤフートラベル、「JAL限定クーポン」を追加配布　最大3万円割引",
+   "link": "https://www.traicy.com/posts/20261124389363/",
+   "published": "2026-11-24T08:37:52.000Z",
+   "summary": "LINEヤフーは、旅行予約サイト「Yahoo!トラベル（ヤフートラベル）」で、「JAL限定クーポン」の追加配布を11月24日から開始した。 日本航空（JAL）の航空券とホテルがセットになったダイナミックパッケージ「ヤフー […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "旅行期間は12月14日から2027年5月31日出発分まで",
+   "prices": [
+    "1,500円"
+   ],
+   "firstSeen": "2026-11-25T00:13:30.875Z"
+  },
   {
    "id": "1df3a439cf1d",
    "source": "sky-budget",
@@ -3227,23 +3247,6 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3257,6 +3260,23 @@
    "cities": [
     "神戸"
    ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
