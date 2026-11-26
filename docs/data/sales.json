@@ -1,15 +1,36 @@
 {
- "updatedAt": "2026-11-26T13:21:28.152Z",
- "count": 135,
+ "updatedAt": "2026-11-26T22:41:40.196Z",
+ "count": 136,
  "log": [
-  "TRAICY: 30 items, 10 sale-ish",
+  "TRAICY: 30 items, 11 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 2 sale-ish",
-  "トラベルWatch: 15 items, 2 sale-ish",
+  "sky-budget: 10 items, 1 sale-ish",
+  "トラベルWatch: 15 items, 0 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "773513f4ec88",
+   "source": "TRAICY",
+   "airlines": [
+    "トキエア"
+   ],
+   "category": "セール・特別運賃",
+   "title": "トキエア、「BLACK FRIDAY SALE」開催　片道6,900円から",
+   "link": "https://www.traicy.com/posts/20261126389630/",
+   "published": "2026-11-26T13:35:48.000Z",
+   "summary": "トキエアは、「BLACK FRIDAY SALE」を11月25日正午から30日まで開催する。 全路線が対象で、対象便限定となる。片道運賃は平日が6,900円から、土・日・祝日が9,900円から。旅客施設使用料とシステム利 […]",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "搭乗期間は12月1日から23日まで",
+   "prices": [
+    "6,900円から",
+    "9,900円から"
+   ],
+   "firstSeen": "2026-11-26T22:41:40.196Z"
+  },
   {
    "id": "04f456f9233b",
    "source": "sky-budget",
@@ -83,28 +104,6 @@
    "firstSeen": "2026-11-26T03:50:39.642Z"
   },
   {
-   "id": "4b493a265bb8",
-   "source": "トラベルWatch",
-   "airlines": [
-    "ANA"
-   ],
-   "category": "",
-   "title": "ANA、国際線タイムセール30日まで。ハワイ往復11万800円～、バンコク往復7万8000円～",
-   "link": "https://travel.watch.impress.co.jp/docs/news/2159165.html",
-   "published": "2026-11-25T21:00:00.000Z",
-   "summary": "ANAは、国際線タイムセールを11月25日0時～30日23時59分に実施している。対象搭乗期間は12月1日～2027年8月31日（路線により異なる）。",
-   "routes": [],
-   "cities": [
-    "タイ",
-    "ハワイ",
-    "バンコク"
-   ],
-   "salePeriod": "",
-   "boardingPeriod": "対象搭乗期間は12月1日～2027年8月31日（路線により異なる）",
-   "prices": [],
-   "firstSeen": "2026-11-26T03:50:39.642Z"
-  },
-  {
    "id": "c18127e82578",
    "source": "トラベルWatch",
    "airlines": [
@@ -126,6 +125,28 @@
    ],
    "salePeriod": "",
    "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-26T03:50:39.642Z"
+  },
+  {
+   "id": "4b493a265bb8",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、国際線タイムセール30日まで。ハワイ往復11万800円～、バンコク往復7万8000円～",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2159165.html",
+   "published": "2026-11-25T21:00:00.000Z",
+   "summary": "ANAは、国際線タイムセールを11月25日0時～30日23時59分に実施している。対象搭乗期間は12月1日～2027年8月31日（路線により異なる）。",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "ハワイ",
+    "バンコク"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "対象搭乗期間は12月1日～2027年8月31日（路線により異なる）",
    "prices": [],
    "firstSeen": "2026-11-26T03:50:39.642Z"
   },
@@ -3481,6 +3502,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3494,23 +3532,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
