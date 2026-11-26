@@ -1,15 +1,134 @@
 {
- "updatedAt": "2026-11-25T20:50:09.011Z",
- "count": 131,
+ "updatedAt": "2026-11-26T03:50:39.642Z",
+ "count": 135,
  "log": [
   "TRAICY: 30 items, 10 sale-ish",
   "TRAICY: 30 items, 3 sale-ish",
-  "sky-budget: 10 items, 1 sale-ish",
-  "トラベルWatch: 15 items, 0 sale-ish",
+  "sky-budget: 10 items, 2 sale-ish",
+  "トラベルWatch: 15 items, 2 sale-ish",
   "Aviation Wire: 10 items, 0 sale-ish",
   "スカイマーク公式: ERROR HTTP 503 http://www.skymark.co.jp/ja/campaign/index.php"
  ],
  "items": [
+  {
+   "id": "04f456f9233b",
+   "source": "sky-budget",
+   "airlines": [
+    "ZIPAIR"
+   ],
+   "category": "",
+   "title": "ZIPAIR、2027年夏ダイヤのヒューストン・バンクーバー線を販売開始 片道4万円台から",
+   "link": "https://sky-budget.com/2026/11/26/zipair-news-2026/",
+   "published": "2026-11-26T02:57:51.000Z",
+   "summary": "ZIPAIR Tokyoは、2026年11月26日12時より、2027年夏スケジュール期間（2027年3月29日～10月30日搭乗分）の成田～ヒューストン線および成田～バンクーバー線の航空券販売を開始します。\n 成田発の片道運賃（1席あたり）は、ヒューストン線の「Standard」が52,000円から、フルフラットシートの「ZIP Full-Flat」が243,750円から、6歳以下向けの「U6 ",
+   "routes": [],
+   "cities": [
+    "東京"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [
+    "52,000円から",
+    "243,750円から",
+    "15,000円",
+    "42,460円から",
+    "144,750円から",
+    "10,000円",
+    "11,000円",
+    "15,500円"
+   ],
+   "firstSeen": "2026-11-26T03:50:39.642Z"
+  },
+  {
+   "id": "7ee36e1f69b2",
+   "source": "sky-budget",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "LCC・FSCの航空券セール情報・セール",
+   "title": "ANA、国際線を対象に燃油サーチャージ込で往復43,300円からのタイムセールを開催中",
+   "link": "https://sky-budget.com/2026/11/26/ana-time-sale-2026/",
+   "published": "2026-11-26T00:58:51.000Z",
+   "summary": "ANAは、往復43,300円からの国際線タイムセールを開催中です。詳細は以下の通りです。\n【対象路線一例/金額】往復金額を表記\n＜エコノミークラス＞\n◇大阪～上海43,300円～\n◇日本～上海50,700円～\n◇大阪～北京50,700円～\n◇日本～北京54,200円～\n◇日本～杭州57,800円～\n◇日本～マニラ58,000円～\n◇日本～大連58,200円～\n◇日本～香港62,200円～\n◇日本～",
+   "routes": [
+    "上海⇄大阪"
+   ],
+   "cities": [
+    "タイ",
+    "大阪",
+    "上海",
+    "マニラ",
+    "香港",
+    "ホーチミン",
+    "ハノイ",
+    "シンガポール",
+    "バンコク",
+    "クアラルンプール",
+    "ホノルル",
+    "鹿児島",
+    "東京"
+   ],
+   "salePeriod": "予約期間】2026年11月25日（水）0:00～11月30日（月）23:59 予約はこちら 最安値航空券の検索・予約はこちら ANAHD、日本唯一のエアライン直下パイロット養成会社「ANA",
+   "boardingPeriod": "搭乗期間】2026年12月1日（火）～2027年8月31日（火） *路線により搭乗期間・タイムセール運賃の適用除外期間が異なります",
+   "prices": [
+    "往復43,300円から",
+    "43,300円～",
+    "50,700円～",
+    "54,200円～",
+    "57,800円～",
+    "58,000円～",
+    "58,200円～",
+    "62,200円～"
+   ],
+   "firstSeen": "2026-11-26T03:50:39.642Z"
+  },
+  {
+   "id": "c18127e82578",
+   "source": "トラベルWatch",
+   "airlines": [
+    "Peach"
+   ],
+   "category": "",
+   "title": "ピーチ、国内・海外ブラックフライデーセール。成田～新千歳4000円から、成田～ソウルは5000円から",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2159133.html",
+   "published": "2026-11-25T21:00:00.000Z",
+   "summary": "ピーチ（Peach Aviation）は、「国内線・国際線ブラックフライデーセール」を実施している。",
+   "routes": [
+    "札幌⇄東京",
+    "ソウル⇄東京"
+   ],
+   "cities": [
+    "東京",
+    "札幌",
+    "ソウル"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-11-26T03:50:39.642Z"
+  },
+  {
+   "id": "4b493a265bb8",
+   "source": "トラベルWatch",
+   "airlines": [
+    "ANA"
+   ],
+   "category": "",
+   "title": "ANA、国際線タイムセール30日まで。ハワイ往復11万800円～、バンコク往復7万8000円～",
+   "link": "https://travel.watch.impress.co.jp/docs/news/2159165.html",
+   "published": "2026-11-25T21:00:00.000Z",
+   "summary": "ANAは、国際線タイムセールを11月25日0時～30日23時59分に実施している。対象搭乗期間は12月1日～2027年8月31日（路線により異なる）。",
+   "routes": [],
+   "cities": [
+    "タイ",
+    "ハワイ",
+    "バンコク"
+   ],
+   "salePeriod": "",
+   "boardingPeriod": "対象搭乗期間は12月1日～2027年8月31日（路線により異なる）",
+   "prices": [],
+   "firstSeen": "2026-11-26T03:50:39.642Z"
+  },
   {
    "id": "4383ccce7466",
    "source": "TRAICY",
@@ -3362,6 +3481,23 @@
    "firstSeen": "2026-10-13T08:41:44.838Z"
   },
   {
+   "id": "f0f308db78ea",
+   "source": "スカイマーク公式",
+   "airlines": [
+    "スカイマーク"
+   ],
+   "title": "年末年始の航空券・飛行機の予約",
+   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
+   "published": "2026-10-10T05:20:58.024Z",
+   "summary": "",
+   "routes": [],
+   "cities": [],
+   "salePeriod": "",
+   "boardingPeriod": "",
+   "prices": [],
+   "firstSeen": "2026-10-10T05:20:58.024Z"
+  },
+  {
    "id": "35f3498dc8f3",
    "source": "スカイマーク公式",
    "airlines": [
@@ -3375,23 +3511,6 @@
    "cities": [
     "神戸"
    ],
-   "salePeriod": "",
-   "boardingPeriod": "",
-   "prices": [],
-   "firstSeen": "2026-10-10T05:20:58.024Z"
-  },
-  {
-   "id": "f0f308db78ea",
-   "source": "スカイマーク公式",
-   "airlines": [
-    "スカイマーク"
-   ],
-   "title": "年末年始の航空券・飛行機の予約",
-   "link": "https://www.skymark.co.jp/ja/campaign/newyear/",
-   "published": "2026-10-10T05:20:58.024Z",
-   "summary": "",
-   "routes": [],
-   "cities": [],
    "salePeriod": "",
    "boardingPeriod": "",
    "prices": [],
